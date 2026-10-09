@@ -1,8 +1,11 @@
 ---
-user-guide-title: New Template Guide
+user-guide-title: Premium Learning Knowledge Base
 user-guide-description: Add description for the new guide here.
 ---
 
-# New template guide {#using}
+# Premium Learning Knowledge Base {#premium-learning-kb}
 
-+ [Overview](overview.md)
+- [Overview](/help/main-guide/overview.md)
+- Premium Learning Subscription {#pls}
+    - [Overview](/help/main-guide/premium-learning-subscription/overview.md)
+    - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
