@@ -13,7 +13,7 @@ After enrolling, you will receive an automated confirmation email and calendar i
 
 Email delivery tip:
 
-* Learning-related emails will come from [plsnore@adobe.com](mailto:plsnore@adobe.com) (Premium Learning Subscription no-reply email address). Add this email address to your contacts or safe sender list to ensure emails are delivered to your inbox.
+* Learning-related emails and calendar invites will come from [plsnore@adobe.com](mailto:plsnore@adobe.com) (Premium Learning Subscription no-reply email address). Add this email address to your contacts or safe sender list to ensure emails are delivered to your inbox.
 * If you’re missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook or similar filtered views).
 
 ## What can I expect after I enroll in an onsite live instructor course?
