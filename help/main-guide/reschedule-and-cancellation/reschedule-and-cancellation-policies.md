@@ -1,15 +1,9 @@
 ---
 title: Reschedule and Cancellation Policies
-description: Learn how to reschedule or cancel Premium Learning enrollments
+description: Plans change. Learn about your rescheduling and cancellation options and the applicable policies.
 ---
 
 # Reschedules and Cancellations
-
-Plans change. Find out your cancellation or rescheduling options and learn more about the policies.
-
-[Reschedules and Cancellations](https://experienceleague.adobe.com/en/premium/help-center/reschedules-and-cancellations)
-
-## Reschedules and Cancellations
 
 ### How do I cancel my enrollment?
 
