@@ -9,6 +9,8 @@ user-guide-description: Add description for the new guide here.
 - Premium Learning Subscription {#pls}
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
+- Reschedules and Cancellations {#reschedules-and-cancellation}
+    - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
     - [Overview](/help/main-guide/live-instructor-course-readiness/overview.md)
     - Course preparation {#lic-course-preparation}
@@ -17,3 +19,4 @@ user-guide-description: Add description for the new guide here.
     - System requirements {#lic-system-requirements}
         - [Live instructor course system requirements](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md)
         - [Additional system requirements by solution](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md)
+
