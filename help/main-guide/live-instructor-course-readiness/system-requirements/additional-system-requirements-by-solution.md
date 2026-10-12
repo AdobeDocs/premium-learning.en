@@ -10,11 +10,11 @@ topic_v2:
 
 # Additional system requirements by solution
 
-## AEM Edge Delivery Services Development
+## Adobe Experience Manager Edge Delivery Services Development
 
 A personal, public GitHub account is required.
 
-## AEM Sites
+## Adobe Experience Manager Sites
 
 Students will access Premium Learning's Adobe Experience Manager company account for the duration of the class to complete course labs.
 
@@ -23,7 +23,7 @@ For Adobe Experience Manager technical courses, use a virtual machine software c
 1. Complete [Performance Precheck](https://adobe.instructorled.training/system-precheck)
 1. Complete Accessibility Precheck and verify access to the [ReadyTech login screen](https://axis.readytech.com/#/login) only (Do not log in).
 
-## Campaign
+## Adobe Campaign
 
 The Campaign client is a Windows only application. If you do not have a Window machine to install the Campaign client, a virtual environment called **Readytech** will be provided to you during class.
 
@@ -32,7 +32,7 @@ If you don’t have a Windows machine or the ability to install software, make s
 1. Complete [Performance Precheck](https://adobe.instructorled.training/system-precheck)
 1. Complete Accessibility Precheck and verify access to the [ReadyTech login screen](https://axis.readytech.com/#/login) only (Do not log in).
 
-## Experience Platform
+## Adobe Experience Platform
 
 Some technical AEP courses use **Postman** for API related activities. If you don’t have the ability to install on your computer, you will receive a virtual machine called **Readytech** during class.
 
@@ -41,7 +41,7 @@ If you don’t have the ability to install software, make sure to:
 1. Complete [Performance Precheck](https://adobe.instructorled.training/system-precheck)
 1. Complete Accessibility Precheck and verify access to the [ReadyTech login screen](https://axis.readytech.com/#/login) only (Do not log in).
 
-## Target
+## Adobe Target
 
 We recommend to download and install these Chrome extensions:
 
