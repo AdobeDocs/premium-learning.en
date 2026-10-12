@@ -8,3 +8,5 @@ user-guide-description: Add description for the new guide here.
 - [Overview](/help/main-guide/overview.md)
 - Premium Learning Subscription {#pls}
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
+- Reschedules and Cancellations
+    - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
