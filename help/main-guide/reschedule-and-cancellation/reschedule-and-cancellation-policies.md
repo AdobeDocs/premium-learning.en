@@ -5,7 +5,7 @@ description: Plans change. Learn about your rescheduling and cancellation option
 
 # Reschedules and Cancellations
 
-### How do I cancel my enrollment?
+## How do I cancel my enrollment?
 
 To cancel your enrollment in a cohort or course:
 
