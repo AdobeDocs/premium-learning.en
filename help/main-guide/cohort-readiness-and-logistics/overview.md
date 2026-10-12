@@ -1,6 +1,7 @@
 ---
-title: "Know Before You Go: Cohorts"
+title: 'Know Before You Go: Cohorts'
 description: Get a high-level overview of the cohort experience, and what to expect.
+TQID: 'https://experienceleague.adobe.com/2VBGq5-WIKhc8AgyHnBVhxqr5cXrh8I2vM1nWE7xz-c'
 ---
 
 # Know Before You Go: Cohorts

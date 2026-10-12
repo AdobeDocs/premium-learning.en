@@ -1,7 +1,6 @@
 ---
-title: Article title
-description: This is the article description 
+title: "Test article"
+description: Get a high-level overview of the cohort experience, and what to expect.
 ---
 
-# Article title 
-
+# Test article
