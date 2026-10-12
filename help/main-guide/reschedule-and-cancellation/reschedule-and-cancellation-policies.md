@@ -1,3 +1,8 @@
+---
+title: Reschedule and Cancellation Policies
+description: Learn how to reschedule or cancel Premium Learning enrollments
+---
+
 # Reschedules and Cancellations
 
 Plans change. Find out your cancellation or rescheduling options and learn more about the policies.
