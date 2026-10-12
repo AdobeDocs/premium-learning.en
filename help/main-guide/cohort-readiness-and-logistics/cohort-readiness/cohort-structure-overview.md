@@ -1,6 +1,18 @@
 ---
-title: "Test article"
-description: Get a high-level overview of the cohort experience, and what to expect.
+title: How is the cohort structured? 
+description: Learn how the Adobe cohort works, including weekly live sessions, self-paced modules and quizzes, and the Capstone Challenge, plus the time to plan for.
 ---
 
-# Test article
+# How is the cohort structured? 
+
+**Live sessions**
+
+Each week, you’ll join two 90-minute live sessions led by Adobe experts, where you’ll explore an Adobe solution in depth. These sessions also give you a chance to connect with others in your cohort through group discussions and interactive activities. Some weeks may even feature a guest speaker sharing best practices or real-world use cases. 
+ 
+**Self-paced activities**
+
+Between live sessions, you will complete self-guided online modules that include readings, videos, and hands-on exercises to help you apply what you’re learning. After each module, there’s a short quiz to help you check your understanding. We recommend reserving 2–4 hours per week to complete the online learning and quizzes. 
+ 
+**Capstone Challenge**
+
+As part of the cohort, you’ll also collaborate with a group of peers on a Capstone Challenge project—a chance to put everything you’ve learned into practice with a real-world scenario. Your group will give a short presentation to share your work and get feedback from Adobe instructors and fellow learners. 
