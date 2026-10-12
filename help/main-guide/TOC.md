@@ -20,3 +20,5 @@ user-guide-description: Add description for the new guide here.
         - [Live instructor course system requirements](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md)
         - [Additional system requirements by solution](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md)
 
+- Cohorts {#cohorts}
+    - [Enrollment and Setup](/help/main-guide/cohorts/enrollment-and-setup.md)
