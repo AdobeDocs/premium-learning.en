@@ -1,6 +1,6 @@
 ---
 title: Running into a technical issue while accessing training.
-description: Learn about Premium Learning Subscription benefits, renewal options, and continued access to learning content.
+description: Find troubleshooting steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
 ---
 
 # Running into a technical issue while accessing training.
