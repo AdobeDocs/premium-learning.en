@@ -7,7 +7,6 @@ description: Find answers about technical support, learning options, reschedules
 
 Find answers to your frequently asked questions. Select the linked topic name (the first words of each item) to jump to that section.
 
-
 * [Technical Support](https://experienceleague.adobe.com/en/docs/premium-learning-kb/main-guide/technical-support): Get help with launching a meeting room or content, or with issues in your in-class experience taking place right now. <!-- verify: folder/file unknown -->
 * [Learning Options](https://experienceleague.adobe.com/en/docs/premium-learning-kb/main-guide/learning-options): Explore the training options we offer to find the one that's right for you. <!-- verify: folder/file unknown -->
 * [Reschedules and Cancellations](https://experienceleague.adobe.com/en/docs/premium-learning-kb/main-guide/reschedules-and-cancellations): Find out your cancellation or reschedule options and learn more about the policies. <!-- verify: folder/file unknown -->
