@@ -15,4 +15,4 @@ Between live sessions, you'll complete self-guided online modules that include r
  
 **Capstone Challenge**
 
-As part of the cohort, you’ll also collaborate with a group of peers on a Capstone Challenge project—a chance to put everything you’ve learned into practice with a real-world scenario. Your group will give a short presentation to share your work and get feedback from Adobe instructors and fellow learners. 
+As part of the cohort, you’ll also collaborate with a group of peers on a Capstone Challenge project. It's a chance to put everything you've learned into practice with a real-world scenario. Your group gives a short presentation to share your work and get feedback from Adobe instructors and fellow learners. 
