@@ -11,7 +11,7 @@ user-guide-description: Add description for the new guide here.
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
     - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
     - Utilization reports {#utilization-reports} 
-        - [Utilization report overview](help\main-guide\premium-learning-subscription\utilization-reports\utilization-report-overview.md)    
+        - [Utilization report overview](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
     - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
