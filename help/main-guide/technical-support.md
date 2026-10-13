@@ -2,6 +2,7 @@
 title: Running into a technical issue while accessing training.
 description: Find troubleshooting steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
 ---
+Need help with launching a meeting room or content? Having issues with your in-class experience taking place right now?
 
 # Running into a technical issue while accessing training.
 
@@ -46,11 +47,11 @@ If you are missing a calendar invite, or unable to join from the personalized li
 Join the meeting room by using the personalized link inside your calendar invites. 
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
-- Go to [My Learning](https://experienceleague.adobe.com/en/premium/learnings).
-- Navigate to the **In Progress Learning** section.
-- Locate the cohort.
-- Navigate to the appropriate week and expand the session.
-- Click on the **Launch** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.).
+1. Go to [My Learning](https://experienceleague.adobe.com/en/premium/learnings).
+1. Navigate to the **In Progress Learning** section.
+1. Locate the cohort.
+1. Navigate to the appropriate week and expand the session.
+1. Click on the **Launch** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.).
 
 ## I’m having issues playing an on-demand video (it won’t load, player is stuck, a module is missing, etc.) What do I do?
 
