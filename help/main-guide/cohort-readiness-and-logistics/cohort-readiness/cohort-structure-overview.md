@@ -3,7 +3,8 @@ title: Cohort Structure Overview
 description: Learn how the Adobe cohort works, including weekly live sessions, self-paced modules and quizzes, the Capstone Challenge, and the time to plan for.
 ---
 
-# Cohort Structure overview
+# Cohort Structure overview 
+
 ## How is the cohort structured? 
 
 **Live sessions**
