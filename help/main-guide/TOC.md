@@ -12,7 +12,7 @@ user-guide-description: Add description for the new guide here.
 - Cohort Readiness and Logistics {#cohort}
     - [Overview](/help/main-guide/cohort-readiness-and-logistics/overview.md)
     - Cohort Readiness and Logistics {#cohort-readiness}
-        - [Cohort Structure Overview](/help/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-structure-overview.md)
+        - [Cohort structure overview](/help/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-structure-overview.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
     - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
