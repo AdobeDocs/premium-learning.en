@@ -10,12 +10,13 @@ user-guide-description: Find answers about Premium Learning, including subscript
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
     - [Understanding Your Enrollment Details Sheet](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-enrollment-details-sheet.md)
+    - [Premium Learning Subscription Terms and Conditions](/help/main-guide/terms-and-conditions.md)
 - Cohort Readiness and Logistics {#cohort}
     - [Overview](/help/main-guide/cohort-readiness-and-logistics/overview.md)
     - Cohort Readiness {#cohort-readiness}
         - [Cohort structure overview](/help/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-structure-overview.md)
     - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
-    - Utilization reports {#utilization-reports} 
+    - Utilization reports {#utilization-reports}
         - [Utilization report overview](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
     - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
