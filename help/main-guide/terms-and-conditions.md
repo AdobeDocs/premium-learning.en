@@ -178,7 +178,9 @@ Adobe reserves the right to modify the Subscription content, features, or these 
 This Subscription is governed by the Adobe Enterprise Licensing Terms, including but not limited to:
 
 (a) General Terms
+
 (b) Product-Specific Licensing Terms (PSLTs)
+
 (c) Service Level Agreements (SLAs), where applicable
 
 In the event of a conflict between these Terms and the Adobe Enterprise Licensing Terms, the latter shall prevail.
