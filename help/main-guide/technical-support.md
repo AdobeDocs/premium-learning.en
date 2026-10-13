@@ -21,7 +21,7 @@ description: Learn about Premium Learning Subscription benefits, renewal options
 - **Try an alternative network or device**. Your organization's network or firewall settings may be preventing access to the virtual meeting room. If available, try using a different network or a personal device.
 - Enable audio device settings.
 - Go over the [technical specifications](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) for Adobe Connect.
-- Whitelist the required domains, IP addresses, and network ports as recommended by Engineering. We recommend sharing this [relevant Adobe article](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) with your organization's IT team so they can allow the required UDP and TCP ports and ensure proper media connectivity.
+- Allowlist the required domains, IP addresses, and network ports as recommended by Engineering. We recommend sharing this [relevant Adobe article](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) with your organization's IT team so they can allow the required UDP and TCP ports and ensure proper media connectivity.
 
 **Additional Adobe Connect Resources:**
 
