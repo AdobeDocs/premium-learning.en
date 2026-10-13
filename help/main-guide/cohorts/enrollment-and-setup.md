@@ -1,7 +1,7 @@
-----
+---
 title: Enrollment and Setup
 description: Learn what to expect after cohort enrollment, including confirmation emails, live session invites, pre-work, sandbox access, and discussion board setup.
-----
+---
 
 # Enrollment and Setup
 
@@ -13,9 +13,9 @@ You will receive an enrollment confirmation email and calendar invites for all t
 
 To help ensure our emails and calendar invites are delivered to your inbox, add the following addresses to your contacts or safe sender list:
 
-[plsnore@adobe.com](plsnore@adobe.com) (used for learning-related notifications and calendar invites)
+[plsnore@adobe.com](mailto:plsnore@adobe.com) (used for learning-related notifications and calendar invites)
 
-[environment@adobe.com](environment@adobe.com) and [atsenvironmentsupport@adobe.com](atsenvironmentsupport@adobe.com) (used for sandbox and environment-related notifications)
+[environment@adobe.com](mailto:environment@adobe.com) and [atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com) (used for sandbox and environment-related notifications)
 
 If you're missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the "Other" tab Outlook or similar filtered views).
 
