@@ -1,6 +1,6 @@
 ---
 title: Premium Learning Help Center
-description: Find answers to your frequently asked questions.
+description: Find answers about technical support, learning options, reschedules, cohorts, subscriptions, and live instructor courses.
 ---
 
 # Premium Learning Help Center
