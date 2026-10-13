@@ -10,6 +10,7 @@ user-guide-description: Add description for the new guide here.
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
 - [Premium Learning Subscription Terms and Conditions](/help/main-guide/terms-and-conditions.md)
+- [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
     - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
