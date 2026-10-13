@@ -6,7 +6,7 @@ TQID: 'https://experienceleague.adobe.com/2VBGq5-WIKhc8AgyHnBVhxqr5cXrh8I2vM1nWE
 
 # Know Before You Go: Cohorts
 
-Get a high-level overview of the cohort experience, and what to expect. Select the linked topic name (the first words of each item) to jump to that section.
+Get a high-level overview of the cohort experience and what to expect. Select the linked topic name (the first words of each item) to open that section.
 
 * [Cohort Structure Overview](https://experienceleague.adobe.com/en/docs/premium-learning-kb/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-structure-overview): See how live sessions, self-paced activities, and the Capstone Challenge fit together.
 * [Cohort Completion Requirements](https://experienceleague.adobe.com/en/docs/premium-learning-kb/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-completion-requirements): Learn what is expected of you, how attendance is tracked, and what happens at the end of the cohort.
