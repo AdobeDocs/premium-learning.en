@@ -9,11 +9,17 @@ user-guide-description: Find answers about Premium Learning, including subscript
 - Premium Learning Subscription {#pls}
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
-- Cohort {#cohort}
-    - [Overview](/help/main-guide/cohort/overview.md)
-    - [Cohort structure](/help/main-guide/cohort/cohort-structure.md)
-    - [Enrollment and setup](/help/main-guide/cohort/enrollment-and-setup.md)
+    - Utilization reports {#utilization-reports}
+        - [Utilization report overview](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)
+        - [Understanding Your Enrollment Details Sheet](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-enrollment-details-sheet.md)
+- Cohorts {#cohorts}
+    - [Overview](/help/main-guide/cohorts/overview.md)
+    - [Cohort structure](/help/main-guide/cohorts/cohort-structure.md)
     - [Participation expectations](/help/main-guide/cohorts/participation-expectations.md)
+    - [Enrollment and setup](/help/main-guide/cohorts/enrollment-and-setup.md)
+    - [Your learning journey](/help/main-guide/cohorts/learning-journey.md)
+    - [System requirements for cohort live sessions](/help/main-guide/cohorts/cohort-live-session-system-requirements.md)
+    - [Community](/help/main-guide/cohorts/community.md)
     - [Support](/help/main-guide/cohorts/support.md)
 - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
@@ -26,6 +32,3 @@ user-guide-description: Find answers about Premium Learning, including subscript
     - System requirements {#lic-system-requirements}
         - [Live instructor course system requirements](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md)
         - [Additional system requirements by solution](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md)
-- Cohorts {#cohorts}
-    - [Enrollment and Setup](/help/main-guide/cohorts/enrollment-and-setup.md)
-    - [System requirements for cohort live sessions](/help/main-guide/cohorts/cohort-live-session-system-requirements.md)
