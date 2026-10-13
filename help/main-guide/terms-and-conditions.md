@@ -73,51 +73,36 @@ Named Users may register for public courses on the Adobe learning system. All Na
 
 ## 6. Scope of Services
 
-  6.1 Included Services for the Premium Subscription:
+1. Included Services for the Premium Subscription:
 
-      a. Always-on access to on-demand courses and video content.
+    1. Always-on access to on-demand courses and video content.
+    2. Public instructor-led training sessions and webinars.
+    3. Cohort Learning Journeys.
+    4. Access to learning course lab environments.
+    5. Unlimited certification vouchers for Adobe CXO certifications and credentials.
 
-      b. Public instructor-led training sessions and webinars.
+2. Included Services for the Premium + Private Training Subscription:
 
-      c. Cohort Learning Journeys.
+    1. Always-on access to on-demand courses and video content.
+    2. Public instructor-led training sessions and webinars.
+    3. Cohort Learning Journeys.
+    4. Access to learning course lab environments.
+    5. Unlimited certification vouchers for Adobe CXO certifications and credentials.
+    6. Private & Personalized training.
+    7. Expanded access to sandbox environments.
 
-      d. Access to learning course lab environments.
+3. Included Services for the Partner Premium Subscription:
 
-      e. Unlimited certification vouchers for Adobe CXO certifications and credentials.
+    1. Always-on access to on-demand courses and video content.
+    2. Public instructor-led training sessions and webinars.
+    3. Cohort Learning Journeys, including a Partner persona path.
+    4. Access to learning course lab environments.
+    5. Unlimited certification vouchers for Adobe CXO certifications and credentials.
+    6. Partner-specific enablement modules.
 
-  6.2 Included Services for the Premium + Private Training Subscription:
+4. Excluded Services from all Subscriptions:
 
-      a. Always-on access to on-demand courses and video content.
-
-      b. Public instructor-led training sessions and webinars.
-
-      c. Cohort Learning Journeys.
-
-      d. Access to learning course lab environments.
-
-      e. Unlimited certification vouchers for Adobe CXO certifications and credentials.
-
-      f. Private & Personalized training.
-
-      g. Expanded access to sandbox environments.
-
-  6.3 Included Services for the Partner Premium Subscription:
-
-      a. Always-on access to on-demand courses and video content.
-
-      b. Public instructor-led training sessions and webinars.
-
-      c. Cohort Learning Journeys, including a Partner persona path.
-
-      d. Access to learning course lab environments.
-
-      e. Unlimited certification vouchers for Adobe CXO certifications and credentials.
-
-      f. Partner-specific enablement modules.
-
-  6.4 Excluded Services from all Subscriptions:
-
-      a. Fully customized training engagements outside the scope of the Subscription, which may be available through Adobe Professional Services.
+    1. Fully customized training engagements outside the scope of the Subscription, which may be available through Adobe Professional Services.
 
 ## 7. Fair Use Policy
 
