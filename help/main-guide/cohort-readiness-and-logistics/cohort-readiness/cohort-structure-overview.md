@@ -11,7 +11,7 @@ Each week, you’ll join two 90-minute live sessions led by Adobe experts, where
  
 **Self-paced activities**
 
-Between live sessions, you will complete self-guided online modules that include readings, videos, and hands-on exercises to help you apply what you’re learning. After each module, there’s a short quiz to help you check your understanding. We recommend reserving 2–4 hours per week to complete the online learning and quizzes. 
+Between live sessions, you'll complete self-guided online modules that include readings, videos, and hands-on exercises to help you apply what you're learning. After each module, a short quiz helps you check your understanding. We recommend reserving 2–4 hours per week to complete the online learning and quizzes. 
  
 **Capstone Challenge**
 
