@@ -1,6 +1,6 @@
 ---
 user-guide-title: Premium Learning Knowledge Base
-user-guide-description: Add description for the new guide here.
+user-guide-description: Find answers about Premium Learning, including subscription benefits and renewal, cohort and live instructor course preparation, system requirements, rescheduling and cancellations, and technical support.
 ---
 
 # Premium Learning Knowledge Base {#premium-learning-kb}
