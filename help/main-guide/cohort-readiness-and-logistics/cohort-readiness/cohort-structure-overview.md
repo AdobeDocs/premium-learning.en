@@ -7,7 +7,7 @@ description: Learn how the Adobe cohort works, including weekly live sessions, s
 
 **Live sessions**
 
-Each week, you’ll join two 90-minute live sessions led by Adobe experts, where you’ll explore an Adobe solution in depth. These sessions also give you a chance to connect with others in your cohort through group discussions and interactive activities. Some weeks may even feature a guest speaker sharing best practices or real-world use cases. 
+Each week, you’ll join two 90-minute live sessions led by Adobe experts, where you’ll explore an Adobe solution in depth. These sessions also give you a chance to connect with others in your cohort through group discussions and interactive activities. Some weeks feature a guest speaker who shares best practices or real-world use cases
  
 **Self-paced activities**
 
