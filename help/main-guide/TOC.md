@@ -9,6 +9,7 @@ user-guide-description: Find answers about Premium Learning, including subscript
 - Premium Learning Subscription {#pls}
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
+    - [Understanding Your Enrollment Details Sheet](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-enrollment-details-sheet.md)
 - Cohort Readiness and Logistics {#cohort}
     - [Overview](/help/main-guide/cohort-readiness-and-logistics/overview.md)
     - Cohort Readiness {#cohort-readiness}
