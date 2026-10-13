@@ -20,7 +20,7 @@ The utilization report is available upon request to your organization's Enterpri
 
 ## How much historical data is included in each monthly report?
 
-Each monthly report is cumulative and includes all available data beginning in June 2026. Every future report will builds on the previous one, so you can view historical and current learning activity in a single report. June 2026 marks the transition to the current learning platform, so data from earlier platform is not included in these reports.
+Each monthly report is cumulative and includes all available data beginning in June 2026. Every future report will build on the previous one, so you can view historical and current learning activity in a single report. June 2026 marks the transition to the current learning platform, so data from the earlier platform is not included in these reports.
 
 ## Why doesn't the report include data from before June 2026?
 
