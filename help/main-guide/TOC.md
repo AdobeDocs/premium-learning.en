@@ -22,3 +22,4 @@ user-guide-description: Add description for the new guide here.
 
 - Cohorts {#cohorts}
     - [Enrollment and Setup](/help/main-guide/cohorts/enrollment-and-setup.md)
+    - [System requirements for cohort live sessions](/help/main-guide/cohorts/cohort-live-session-system-requirements.md)

@@ -32,3 +32,7 @@ Every cohort comes with a discussion board— the primary space for you and your
 The discussion board is for you and your fellow cohort members to connect, collaborate, and grow together. Share your reflections, ask questions, exchange resources, and support one another throughout the program. Your instructor and facilitator will also be checking in—joining conversations, offering guidance, and helping deepen your learning. Make the most of this space by engaging actively and learning from each other!
 
 You will be provided access to your discussion board on the first day of your cohort.
+
+## How do I join my cohort live sessions? 
+
+Join the meeting room by using the personalized link inside your calendar invites.
