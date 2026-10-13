@@ -9,11 +9,13 @@ user-guide-description: Find answers about Premium Learning, including subscript
 - Premium Learning Subscription {#pls}
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
-- Cohort Readiness and Logistics {#cohort}
-    - [Overview](/help/main-guide/cohort-readiness-and-logistics/overview.md)
-    - Cohort Readiness {#cohort-readiness}
-        - [Cohort structure overview](/help/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-structure-overview.md)
-    - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
+- Cohort {#cohort}
+    - [Overview](/help/main-guide/cohort/overview.md)
+    - [Cohort structure](/help/main-guide/cohort/cohort-structure.md)
+    - [Enrollment and setup](/help/main-guide/cohort/enrollment-and-setup.md)
+    - [Participation expectations](/help/main-guide/cohorts/participation-expectations.md)
+    - [Support](/help/main-guide/cohorts/support.md)
+- [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
     - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
