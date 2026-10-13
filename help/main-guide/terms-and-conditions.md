@@ -158,8 +158,8 @@ Pricing is determined based on the Customer’s Annual Recurring Revenue (ARR) b
 
 ## 9. Renewals and Cancellations
 
-1. Renewal. Subscriptions are co-termed with the CXO license and follow the same renewal cycle.
-2. Cancellation. Cancellation must be requested at least seven (7) business days before the start of any scheduled instructor-led session to avoid penalties.
+1. **Renewal**. Subscriptions are co-termed with the CXO license and follow the same renewal cycle.
+2. **Cancellation**. Cancellation must be requested at least seven (7) business days before the start of any scheduled instructor-led session to avoid penalties.
 
 ## 10. Support and Service Levels
 
