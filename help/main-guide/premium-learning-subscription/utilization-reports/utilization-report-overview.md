@@ -6,6 +6,7 @@ TQID: 'https://experienceleague.adobe.com/DKaonydya8AzyNltcvU-gTpn8HmWIrt8mN0hDZ
 ---
 
 # Utilization Report Overview
+
 Learn about utilization reports for your Premium Learning Subscription, including the learning activity they cover, who can request them, how much historical data they include, and why the current reports differ from previous reports.
 
 
