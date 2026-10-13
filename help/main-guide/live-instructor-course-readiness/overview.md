@@ -1,16 +1,15 @@
 ---
-title: Premium Learning Help Center
-description: Find answers about Premium Learning technical support, learning options, reschedules, cohorts, subscriptions, and live instructor courses.
+title: 'Know Before You Go: Live instructor courses - Overview'
+description: Get ready for your live instructor course, learn how to join your session, and confirm that your system meets the requirements.
+autotag-review: '2026-10-12T16:23:11.595Z'
+TQID: 'https://experienceleague.adobe.com/jNBQiEa4dcYeQMpZVMfvATpq23TN4w63a1nyPAu4lzk'
 ---
 
-# Premium Learning Help Center
+# Know Before You Go: Live instructor courses - Overview
 
-Find answers to your frequently asked questions. Select the linked topic name (the first words of each item) to jump to that section.
+Prepare for a successful learning journey before you attend a live instructor course. Select the linked topic name (the first words of each item) to jump to that section.
 
-* [Technical Support](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/technical-support): Get help with launching a meeting room or content, or with issues in your in-class experience taking place right now. 
-* [Learning Options](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/learning-options): Explore the training options we offer to find the one that's right for you. 
-* [Reschedules and Cancellations](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/reschedules-and-cancellations): Find out your cancellation or reschedule options and learn more about the policies. 
-* [Premium Learning Subscription Terms and Conditions](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/premium-learning-subscription/terms-and-conditions): View the full terms and conditions of your Premium Learning Subscription. 
-* [Know Before You Go: Cohorts](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/cohort-readiness-and-logistics/overview): Get a high-level overview of the cohort experience, and what to expect.
-* [Premium Learning Subscription Information](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/remium-learning-subscription/overview): Learn about the Premium Learning Subscription, including its benefits and what’s included.
-* [Know Before You Go: Live instructor courses](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/live-instructor-course-readiness): Prepare for a successful learning journey and check your system requirements before attending a live instructor course.
+* [Prepare for a live instructor course](/help/main-guide/live-instructor-course-readiness/course-preparation/prepare-for-live-instructor-course.md): Learn what to expect after you enroll, how to access your class environment, and how to have a successful training.
+* [Join a live instructor course session](/help/main-guide/live-instructor-course-readiness/course-preparation/join-live-instructor-course-session.md): Find out how to join your live session on the day of class, including backup steps if your calendar invite is missing.
+* [Live instructor course system requirements](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md): Check the Adobe Connect, hardware, and software requirements that apply to all live instructor courses.
+* [Additional system requirements by solution](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md): Review the extra requirements for AEM Edge Delivery Services Development, AEM Sites, Campaign, Experience Platform, and Target.
