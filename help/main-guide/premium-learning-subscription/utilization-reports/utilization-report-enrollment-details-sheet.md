@@ -1,13 +1,13 @@
 ---
 title: Understanding Your Enrollment Details Sheet
-description: Learn how to interpret the fields in the Learning Utilization 
+description: Learn how to interpret the fields in the Enrollment Details sheet of your Learning Utilization Report.
 ---
 
 # Understanding Your Enrollment Details Sheet
 
 ## What does the Enrollment Details sheet show?
  
-The Enrollment Details sheet provides the detailed data behind the Summary sheet. It includes learner information, course details, progress, attendance, completion status, and key enrollment and class dates.
+The **Enrollment Details** sheet provides the detailed data behind the Summary sheet. It includes learner information, course details, progress, attendance, completion status, and key enrollment and class dates.
 
 A quick reference for reading the "Enrollment Details" tab of your Learning Utilization Report. This sheet is the data behind the Summary sheet — one row per learner enrollment.
 
