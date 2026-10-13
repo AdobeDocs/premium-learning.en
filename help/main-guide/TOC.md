@@ -1,6 +1,6 @@
 ---
 user-guide-title: Premium Learning Knowledge Base
-user-guide-description: Add description for the new guide here.
+user-guide-description: Find answers about Premium Learning, including subscription benefits and renewal, cohort and live instructor course preparation, system requirements, rescheduling and cancellations, and technical support.
 ---
 
 # Premium Learning Knowledge Base {#premium-learning-kb}
@@ -9,6 +9,10 @@ user-guide-description: Add description for the new guide here.
 - Premium Learning Subscription {#pls}
     - [Premium Learning Subscription overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
+- Cohort Readiness and Logistics {#cohort}
+    - [Overview](/help/main-guide/cohort-readiness-and-logistics/overview.md)
+    - Cohort Readiness {#cohort-readiness}
+        - [Cohort structure overview](/help/main-guide/cohort-readiness-and-logistics/cohort-readiness/cohort-structure-overview.md)
     - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
     - Utilization reports {#utilization-reports} 
         - [Utilization report overview](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)
@@ -22,4 +26,6 @@ user-guide-description: Add description for the new guide here.
     - System requirements {#lic-system-requirements}
         - [Live instructor course system requirements](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md)
         - [Additional system requirements by solution](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md)
-
+- Cohorts {#cohorts}
+    - [Enrollment and Setup](/help/main-guide/cohorts/enrollment-and-setup.md)
+    - [System requirements for cohort live sessions](/help/main-guide/cohorts/cohort-live-session-system-requirements.md)
