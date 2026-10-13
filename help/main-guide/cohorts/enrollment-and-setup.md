@@ -19,7 +19,7 @@ To help ensure our emails and calendar invites are delivered to your inbox, add 
 
 If you're missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the "Other" tab Outlook or similar filtered views).
 
-Approximately 1 week before your cohort begins: Look out for a welcome email that lets you know you can start accessing your cohort activities and pre-work requirements. In the meantime, you can read about the cohort objectives and agenda in My Hub.
+Approximately 1 week before your cohort begins: Look out for a welcome email that lets you know you can start accessing your cohort activities and pre-work requirements. In the meantime, you can read about the cohort objectives and agenda in [My Hub](https://experienceleague.adobe.com/en/premium/home).
 
 ## How do I gain access to an environment to use during the cohort?
 
