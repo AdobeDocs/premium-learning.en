@@ -58,7 +58,7 @@ If you’ve tried clearing your browser cache with no success, please [contact u
 
 ## I'm having issues with my sandbox environment.
 
-If your sandbox environment has completed provisioning but you're running into access issues, [contact our Environments Support team.](mailto:ATSEnvironmentSupport@adobe.com)
+If your sandbox environment has completed provisioning but you're running into access issues, [contact our Environments Support team](mailto:ATSEnvironmentSupport@adobe.com).
 
 ## Email Deliverability Tips
 
