@@ -11,13 +11,13 @@ TQID: 'https://experienceleague.adobe.com/rhBKUtleRIRpWvnzXmw-7gnjlGytkMyl1-Bxc5
 
 Cohort learning blends expert-guided instruction, discussion, and real-world application while fostering shared progression, community, and collaboration over 2-8 weeks. Engage in real-time learning with Adobe experts and your peers. Learn with self-paced activities and quizzes between live sessions. Demonstrate mastery through a guided capstone project. After successfully completing a cohort, learners will earn a completion badge — and move closer to certification-readiness.
 
-Participating in a cohort: [Know Before You Go](https://experienceleague.adobe.com/en/premium/help-center/cohorts)
+Participating in a cohort: [Know Before You Go](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/cohort-readiness-and-logistics/overview)
 
 ## Live instructor courses
 
 Our live courses, led by expert instructors, are developed in collaboration with Adobe Experience Cloud product teams. With Premium Learning, our instructors guide you through interactive sessions with hands-on exercises in our product sandboxes. You'll get slides, activity guides, and a completion badge for each course.
 
-Participating in a live instructor course: [Know Before You Go](https://experienceleague.adobe.com/en/premium/help-center/know-before-you-go)
+Participating in a live instructor course: [Know Before You Go](https://experienceleague.adobe.com/en/docs/ppremium-learning-kb/premium-learning-kb/live-instructor-course-readiness)
 
 ## On-demand courses
 
