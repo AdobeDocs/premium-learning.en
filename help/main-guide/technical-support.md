@@ -36,7 +36,7 @@ Join the meeting room by using the personalized link inside your calendar invite
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
 1. Go to [My Learning](https://experienceleague.adobe.com/en/premium/learnings).
-1. Navigate to the **In Progress Learnin** section.
+1. Navigate to the **In Progress Learning** section.
 1. Under **Live Instructor**, locate your course.
 1. You should see an overview. Switch to the "Session detail" tab and locate the Day you're on. 
 1. Click on the **Launch** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.)
