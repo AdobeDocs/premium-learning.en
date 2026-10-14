@@ -37,5 +37,5 @@ If you run into any issues with your environment when doing your cohort activiti
 
 ## I'm having issues with Adobe Connect.
 
-Visit the [Technical Support](https://experienceleague.adobe.com/en/premium/help-center/technical-support) page and follow troubleshooting steps. 
+Visit the [Technical Support](/help/main-guide/technical-support.md) page and follow troubleshooting steps. 
 
