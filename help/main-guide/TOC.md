@@ -18,6 +18,7 @@ user-guide-description: Find answers about Premium Learning, including subscript
     - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
     - Utilization reports {#utilization-reports}
         - [Utilization report overview](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)
+        - [Utilization Report Summary Sheet](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-summary-sheet.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
     - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
