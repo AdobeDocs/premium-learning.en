@@ -1,10 +1,10 @@
 ---
-title: Running into a technical issue while accessing training.
+title: Running into a technical issue while accessing training
 description: Find troubleshooting steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
 ---
 Need help with launching a meeting room or content? Having issues with your in-class experience taking place right now?
 
-# Running into a technical issue while accessing training.
+# Running into a technical issue while accessing training
 
 ## I have the virtual meeting room info, but I'm experiencing Adobe Connect performance issues.
 
