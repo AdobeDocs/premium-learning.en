@@ -12,7 +12,7 @@ Live sessions will be conducted using Adobe Connect. Ensure you follow these che
 1. Run this [diagnostic test](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) to ensure that Adobe Connect is working properly on your system.
 1. Go over the [technical specifications](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) for Adobe Connect.
 1. You can join Adobe Connect through a browser or the desktop application.
-1. If the desktop app is already installed and you are facing issues, uninstall the Adobe Connect application and reinstall it using the latest version provided [here](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
+    a) If the desktop app is already installed and you are facing issues, uninstall the Adobe Connect application and reinstall it using the latest version provided [here](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 
 You'll find your personalized virtual meeting room link in your calendar invite. On the day of training, we recommend launching the link 5–10 minutes before class starts.
 
