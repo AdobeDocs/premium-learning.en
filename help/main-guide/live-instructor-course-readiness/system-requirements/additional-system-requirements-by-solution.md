@@ -25,18 +25,18 @@ For Adobe Experience Manager technical courses, use a virtual machine software c
 
 ## Adobe Campaign
 
-The Campaign client is a Windows only application. If you do not have a Window machine to install the Campaign client, a virtual environment called **Readytech** will be provided to you during class.
+The Campaign client is a Windows only application. If you do not have a Windows machine to install the Campaign client, a virtual environment called **Readytech** will be provided to you during class.
 
-If you don’t have a Windows machine or the ability to install software, make sure to:
+If you don't have a Windows machine or the ability to install software, make sure to:
 
 1. Complete [Performance Precheck](https://adobe.instructorled.training/system-precheck)
 1. Complete Accessibility Precheck and verify access to the [ReadyTech login screen](https://axis.readytech.com/#/login) only (Do not log in).
 
 ## Adobe Experience Platform
 
-Some technical AEP courses use **Postman** for API related activities. If you don’t have the ability to install on your computer, you will receive a virtual machine called **Readytech** during class.
+Some technical AEP courses use **Postman** for API related activities. If you don't have the ability to install on your computer, you will receive a virtual machine called **Readytech** during class.
 
-If you don’t have the ability to install software, make sure to:
+If you don't have the ability to install software, make sure to:
 
 1. Complete [Performance Precheck](https://adobe.instructorled.training/system-precheck)
 1. Complete Accessibility Precheck and verify access to the [ReadyTech login screen](https://axis.readytech.com/#/login) only (Do not log in).
