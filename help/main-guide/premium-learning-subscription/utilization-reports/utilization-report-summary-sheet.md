@@ -1,9 +1,9 @@
 ---
-title: Utilization Report Summary Sheet
+title: Understanding Your Summary Sheet 
 description: Learn how to interpret the Summary sheet of the Learning Utilization Report, including enrollments, completion rates, attendance metrics, learning modalities, product utilization, and certifications. 
 ---
 
-# Utilization Report Summary Sheet 
+# Understanding Your Summary Sheet  
 
 ## What does the Summary sheet show?
 
@@ -37,7 +37,8 @@ Check the **Completion Rate — Delivered Training Only** table. It only counts 
 
 **Q: What does the Attendance table measure?**
 
-Only live/instructor-led classes (not self-paced) — did learners show up? It tracks Attended, Partial, No-Show, and the resulting drop-off rate. >[!NOTE]
+Only live/instructor-led classes (not self-paced) — did learners show up? It tracks Attended, Partial, No-Show, and the resulting drop-off rate.
+>[!NOTE]
 >
 >This drop-off rate is based on delivered sessions only and is a different calculation than any module-level attendance metric elsewhere in the report.
 
