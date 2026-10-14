@@ -26,7 +26,7 @@ user-guide-description: Find answers about Premium Learning, including subscript
     - [Support](/help/main-guide/cohorts/support.md)
 - [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
 - Reschedules and Cancellations {#reschedules-and-cancellation}
-    - [Reschedule and Cancellation Policies](/help/main-guide/reschedule-and-cancellation-policies.md)
+    - [Reschedule and cancellation policies](/help/main-guide/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Live instructor courses {#lic-readiness}
     - [Overview](/help/main-guide/live-instructor-course-readiness/overview.md)
     - Course preparation {#lic-course-preparation}
