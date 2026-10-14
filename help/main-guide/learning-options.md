@@ -11,7 +11,7 @@ TQID: 'https://experienceleague.adobe.com/rhBKUtleRIRpWvnzXmw-7gnjlGytkMyl1-Bxc5
 
 Cohort learning blends expert-guided instruction, discussion, and real-world application while fostering shared progression, community, and collaboration over 2-8 weeks. Engage in real-time learning with Adobe experts and your peers. Learn with self-paced activities and quizzes between live sessions. Demonstrate mastery through a guided capstone project. After successfully completing a cohort, learners will earn a completion badge — and move closer to certification-readiness.
 
-Participating in a cohort: [Know Before You Go](help/main-guide/cohorts/overview.md)
+Participating in a cohort: [Know Before You Go](/help/main-guide/cohorts/overview.md)
 
 ## Live instructor courses
 
