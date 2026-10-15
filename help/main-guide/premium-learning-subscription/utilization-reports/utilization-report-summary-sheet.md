@@ -19,7 +19,7 @@ These are your headline KPIs — the fastest way to gauge program size and momen
 >
 >Completion Rate and Learning Hours only count training that has actually happened (delivered or self-paced), not classes still scheduled.
 
-**Q: What does the Enrollment Trends by Month table show?**
+**Q: What does the **[!UICONTROL Enrollment Trends by Month]** table show?**
 
 Your enrollment activity over time, month by month, with % change. Use this to see whether engagement is growing, flat, or slowing down.
 
