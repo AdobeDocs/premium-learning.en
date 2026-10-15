@@ -27,7 +27,7 @@ Your enrollment activity over time, month by month, with % change. Use this to s
 
 Status Breakdown (Completed / In Progress / Not Started) covers all enrollments, including ones that haven't started yet. Completion Rate only counts classes learners have had a chance to finish.
 
-**Q: What does Class Delivery — Scheduled vs Delivered tell me?**
+**Q: What does **[!UICONTROL Class Delivery — Scheduled vs Delivered]** tell me?**
 
 Whether your enrollments have actually run yet. It splits everything into Delivered, In Progress, Scheduled, and Self-Paced — this is the basis for what counts as *eligible* in the completion math.
 
