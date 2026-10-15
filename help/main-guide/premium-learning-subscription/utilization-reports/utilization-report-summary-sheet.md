@@ -9,7 +9,7 @@ description: Learn how to read the Summary sheet of your Learning Utilization Re
 
 The Summary sheet provides a high-level overview of your organization's learning activity, including enrollments, completion and attendance metrics, learning modalities, product training, and certifications earned.
 
-## A quick reference for reading the Summary tab of your Learning Utilization Report. Numbers vary by account. This explains what each section means.
+## A quick reference for reading the **[!UICONTROL Summary]** tab of your **[!UICONTROL Learning Utilization Report]**. Numbers vary by account. This explains what each section means.
 
 **Q: What are the four numbers at the top (Total Enrollments, Active Learners, Completion Rate, Learning Hours)?**
 
