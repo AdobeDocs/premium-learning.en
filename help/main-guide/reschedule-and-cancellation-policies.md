@@ -19,7 +19,7 @@ Visit the [Terms and Conditions](/help/main-guide/terms-and-conditions.md) for f
 To reschedule for a different date:
 
 1. Unenroll from your cohort or course. You can find your enrollments listed on the **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings) page.
-2. Return to the [Premium Catalog](https://experienceleague.adobe.com/en/premium/premium-search) to enroll in another cohort or course date.
+2. Return to the **[!UICONTROL Premium Catalog]**(https://experienceleague.adobe.com/en/premium/premium-search) to enroll in another cohort or course date.
 
 Visit the [Terms and Conditions](/help/main-guide/terms-and-conditions.md) for full information on rescheduling, cancellation and No-Show policies.
 
