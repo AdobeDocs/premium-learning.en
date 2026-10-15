@@ -23,7 +23,7 @@ These are your headline KPIs — the fastest way to gauge program size and momen
 
 Your enrollment activity over time, month by month, with % change. Use this to see whether engagement is growing, flat, or slowing down.
 
-**Q: What's the difference between the Status Breakdown and the Completion Rate?**
+**Q: What's the difference between the **[!UICONTROL Status Breakdown]** and the **[!UICONTROL Completion Rate]**?**
 
 Status Breakdown (Completed / In Progress / Not Started) covers all enrollments, including ones that haven't started yet. Completion Rate only counts classes learners have had a chance to finish.
 
