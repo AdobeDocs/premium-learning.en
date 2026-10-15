@@ -1,6 +1,6 @@
 ---
 title: Live instructor course system requirements
-description: Learn about extra requirements for Edge Delivery Services, AEM Sites, Campaign, Experience Platform, and Target courses. Check them before class.
+description: Learn about the Adobe Connect, hardware, and software requirements for live instructor courses. Check your system before class starts.
 autotag-review: '2026-10-12T16:22:56.996Z'
 TQID: 'https://experienceleague.adobe.com/voxnxb196Od3hppzO-R9oY-iciTyHc-x6myezUvsAME'
 topic_v2:
