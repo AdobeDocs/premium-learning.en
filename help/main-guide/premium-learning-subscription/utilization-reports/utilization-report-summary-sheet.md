@@ -11,7 +11,7 @@ The Summary sheet provides a high-level overview of your organization's learning
 
 ## A quick reference for reading the **[!UICONTROL Summary]** tab of your **[!UICONTROL Learning Utilization Report]**. Numbers vary by account. This explains what each section means.
 
-**Q: What are the four numbers at the top (Total Enrollments, Active Learners, Completion Rate, Learning Hours)?**
+**Q: What are the four numbers at the top (**[!UICONTROL Total Enrollments]**, **[!UICONTROL Active Learners]**, **[!UICONTROL Completion Rate]**, **[!UICONTROL Learning Hours]**)?**
 
 These are your headline KPIs — the fastest way to gauge program size and momentum.
 
