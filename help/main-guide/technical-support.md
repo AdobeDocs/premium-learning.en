@@ -6,13 +6,13 @@ Need help with launching a meeting room or content? Having issues with your in-c
 
 # Running into a technical issue while accessing training
 
-## I have the virtual meeting room info, but I'm experiencing [!DNL Adobe Connect] performance issues.
+## I have the virtual meeting room info, but I'm experiencing Adobe Connect performance issues.
 
 **You can self-troubleshoot using these steps:**
 
-1. Run this [diagnostic test](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) to ensure that [!DNL Adobe Connect] is working properly on your system.
+1. Run this [diagnostic test](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) to ensure that Adobe Connect is working properly on your system.
 1. Browser: Clear your browser cache and then relaunch your browser. If that is unsuccessful, open the link in Incognito mode.
-1. [!DNL Adobe Connect] application: the app is not required, as the meeting link is browser-friendly. However, if the desktop app is already installed and you are facing issues, uninstall the [!DNL Adobe Connect] application and reinstall it using the latest version provided [here](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
+1. Adobe Connect application: the app is not required, as the meeting link is browser-friendly. However, if the desktop app is already installed and you are facing issues, uninstall the Adobe Connect application and reinstall it using the latest version provided [here](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 
 **Additional checkpoints:**
 
@@ -21,13 +21,13 @@ Need help with launching a meeting room or content? Having issues with your in-c
 - Try an alternative browser.
 - **Try an alternative network or device**. Your organization's network or firewall settings may be preventing access to the virtual meeting room. If available, try using a different network or a personal device.
 - Enable audio device settings.
-- Go over the [technical specifications](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) for [!DNL Adobe Connect].
+- Go over the [technical specifications](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) for Adobe Connect.
 - Allowlist the required domains, IP addresses, and network ports as recommended by Engineering. We recommend sharing this [relevant Adobe article](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) with your organization's IT team so they can allow the required UDP and TCP ports and ensure proper media connectivity.
 
-**Additional [!DNL Adobe Connect] Resources:**
+**Additional Adobe Connect Resources:**
 
-- [[!DNL Adobe Connect] Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
-- [!DNL Adobe Connect] Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
+- [Adobe Connect] Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
+- [Adobe Connect] Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
 
 **Having audio issues?** If you've already tried the troubleshooting steps above and the problem persists, your organization's network or security settings may be preventing audio from working correctly. We recommend reaching out to your internal IT team to verify this, and [contact us](https://adobe.service-now.com/adls?category=26) for additional support.
 
