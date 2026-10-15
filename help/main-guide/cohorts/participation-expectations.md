@@ -1,6 +1,6 @@
 ---
 title: Participation expectations 
-description: Understand what's required to complete the cohort, including twice-weekly live session attendance, self-paced modules and quizzes, and the capstone project with peer review.
+description: Learn about the requirements to complete a cohort. Plan for live sessions, self-paced modules, and the capstone project with peer review.
 ---
 
 # Participation expectations 

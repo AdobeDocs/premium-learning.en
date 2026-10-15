@@ -1,6 +1,6 @@
 ---
 title: Understanding Your Summary Sheet 
-description: Learn how to interpret the Summary sheet of the Learning Utilization Report, including enrollments, completion rates, attendance metrics, learning modalities, product utilization, and certifications. 
+description: Learn how to read the Summary sheet of your Learning Utilization Report. Interpret enrollments, completion, attendance, and certifications.
 ---
 
 # Understanding Your Summary Sheet  
@@ -55,5 +55,5 @@ An enrollment can span multiple products and get counted under each one it touch
 
 Formal Adobe certifications earned by learners. One learner can hold multiple certifications, so the certification count isn't the same as a headcount of certified people. 
 
-This guide covers the Summary sheet only. A separate guide covers the Enrollment Details sheet.
+This guide covers the Summary sheet only. A separate guide covers the **[!UICONTROL Enrollment Details]** sheet.
  

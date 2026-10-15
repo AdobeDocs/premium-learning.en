@@ -1,6 +1,6 @@
 ---
 title: Explore Premium Learning options
-description: Learn how to explore the training options available with your Premium Learning subscription and find the one that's right for you.
+description: Learn about the cohort, live instructor, and on-demand courses in your Premium Learning Subscription. Find the option that fits your goals.
 autotag-review: '2026-10-12T22:10:10.036Z'
 TQID: 'https://experienceleague.adobe.com/rhBKUtleRIRpWvnzXmw-7gnjlGytkMyl1-Bxc5RHzs4'
 ---
@@ -17,10 +17,10 @@ Participating in a cohort: [Know Before You Go](/help/main-guide/cohorts/overvie
 
 Our live courses, led by expert instructors, are developed in collaboration with Adobe Experience Cloud product teams. With Premium Learning, our instructors guide you through interactive sessions with hands-on exercises in our product sandboxes. You'll get slides, activity guides, and a completion badge for each course.
 
-Participating in a live instructor course: [Know Before You Go](https://experienceleague.adobe.com/en/docs/ppremium-learning-kb/premium-learning-kb/live-instructor-course-readiness)
+Participating in a live instructor course: [Know Before You Go](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/live-instructor-course-readiness)
 
 ## On-demand courses
 
 Learn on your schedule with courses designed to match our live sessions— at your own pace. Dive deeper with hands-on product exercises in our requestable learning sandboxes, and reinforce your skills with guided activities, course materials, and a completion badge.
 
-Question not listed here? [Contact us.](https://adobe.service-now.com/adls?category=8)
+Question not listed here? [Contact us](https://adobe.service-now.com/adls?category=8).
