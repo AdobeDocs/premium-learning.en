@@ -1,6 +1,6 @@
 ---
 title: Running into a technical issue while accessing training
-description: Learn about the terms and conditions that govern your Premium Learning Subscription. Review enrollment, cancellation, fair use, and renewal policies.
+description: Learn about the steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
 ---
 Need help with launching a meeting room or content? Having issues with your in-class experience taking place right now?
 
