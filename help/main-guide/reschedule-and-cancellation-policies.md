@@ -9,7 +9,7 @@ description: Learn how to cancel or reschedule a cohort or course enrollment. Re
 
 To cancel your enrollment in a cohort or course:
 
-1. Find your enrollment listed on the [My Learning](https://experienceleague.adobe.com/en/premium/learnings) page.
+1. Find your enrollment listed on the **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings) page.
 2. Click **[!UICONTROL Unenroll]**.
 
 Visit the [Terms and Conditions](/help/main-guide/terms-and-conditions.md) for full information on rescheduling, cancellation and No-Show policies.
