@@ -5,7 +5,7 @@ description: Learn how to read the Summary sheet of your Learning Utilization Re
 
 # Understanding Your Summary Sheet  
 
-## What does the Summary sheet show?
+## What does the **[!UICONTROL Summary sheet]** show?
 
 The Summary sheet provides a high-level overview of your organization's learning activity, including enrollments, completion and attendance metrics, learning modalities, product training, and certifications earned.
 
