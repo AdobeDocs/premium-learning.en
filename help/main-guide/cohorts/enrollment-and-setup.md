@@ -27,7 +27,7 @@ You will be provided access to a sandbox environment on the first day of your co
 
 ## What is a discussion board, and how do I gain access?
 
-Every cohort comes with a **discussion board**— the primary space for you and your cohort to post, share, and support each other, with guidance from your instructor and facilitator throughout the program.
+Every cohort comes with a **[!UICONTROL discussion board]**— the primary space for you and your cohort to post, share, and support each other, with guidance from your instructor and facilitator throughout the program.
 
 The discussion board is for you and your fellow cohort members to connect, collaborate, and grow together. Share your reflections, ask questions, exchange resources, and support one another throughout the program. Your instructor and facilitator will also be checking in—joining conversations, offering guidance, and helping deepen your learning. Make the most of this space by engaging actively and learning from each other!
 
