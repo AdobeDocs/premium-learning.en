@@ -26,7 +26,7 @@ Need help with launching a meeting room or content? Having issues with your in-c
 
 **Additional Adobe Connect Resources:**
 
-- [Adobe Connect] Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
+- [Adobe Connect Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
 - [Adobe Connect] Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
 
 **Having audio issues?** If you've already tried the troubleshooting steps above and the problem persists, your organization's network or security settings may be preventing audio from working correctly. We recommend reaching out to your internal IT team to verify this, and [contact us](https://adobe.service-now.com/adls?category=26) for additional support.
