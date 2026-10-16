@@ -17,7 +17,7 @@ Explore the benefits included in the Premium Learning Subscription and the Premi
 - Personalized cohort-based learning journeys by persona and industry
 - Access to all virtual public thought leadership sessions (Innovation Workshops)
 - Access to post-cohort 1:1 expert mentorship for troubleshooting and specific environment questions
-- Free access to Adobe certification vouchers\*
+- Free access to Adobe certification vouchers (see note below)
 
 **Premium Learning + Private Training Subscription provides access to:**
 
@@ -27,7 +27,7 @@ Explore the benefits included in the Premium Learning Subscription and the Premi
 - Personalized cohort-based learning journeys by persona and industry
 - Access to all virtual public thought leadership sessions (Innovation Workshops)
 - Access to post-cohort 1:1 expert mentorship for troubleshooting and specific environment questions
-- Free access to Adobe certification vouchers\*
+- Free access to Adobe certification vouchers (see note below)
 - Access to private and personalized training
 - Access to open sandboxes to practice in a fail-proof environment
 

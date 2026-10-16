@@ -19,7 +19,7 @@ Need help with launching a meeting room or content? Having issues with your in-c
 - Verify your browser permissions.
 - Disable pop-up blockers.
 - Try an alternative browser.
-- **Try an alternative network or device**. Your organization's network or firewall settings may be preventing access to the virtual meeting room. If available, try using a different network or a personal device.
+- Try an alternative network or device. Your organization's network or firewall settings may be preventing access to the virtual meeting room. If available, try using a different network or a personal device.
 - Enable audio device settings.
 - Go over the [technical specifications](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) for Adobe Connect.
 - Allowlist the required domains, IP addresses, and network ports as recommended by Engineering. We recommend sharing this [relevant Adobe article](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) with your organization's IT team so they can allow the required UDP and TCP ports and ensure proper media connectivity.
@@ -27,7 +27,7 @@ Need help with launching a meeting room or content? Having issues with your in-c
 **Additional Adobe Connect Resources:**
 
 - [Adobe Connect Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
-- [Adobe Connect] Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
+- Adobe Connect Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
 
 **Having audio issues?** If you've already tried the troubleshooting steps above and the problem persists, your organization's network or security settings may be preventing audio from working correctly. We recommend reaching out to your internal IT team to verify this, and [contact us](https://adobe.service-now.com/adls?category=26) for additional support.
 
@@ -37,7 +37,7 @@ Join the meeting room by using the personalized link inside your calendar invite
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
 1. Go to [My Learning](https://experienceleague.adobe.com/en/premium/learnings).
-1. Navigate to the **[!UICONTROL In Progress Learning]**** section.
+1. Navigate to the **[!UICONTROL In Progress Learning]** section.
 1. Under **[!UICONTROL Live Instructor]**, locate your course.
 1. You should see an overview. Switch to the **[!UICONTROL Session detail]** tab and locate the Day you're on. 
 1. Click on the **[!UICONTROL Launch]** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.)

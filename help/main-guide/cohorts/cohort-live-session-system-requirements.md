@@ -7,7 +7,7 @@ description: Prepare for cohort live sessions with Adobe Connect setup guidance,
 
 ## Be ready with Adobe Connect
 
-Live sessions will be conducted using Adobe Connect. Ensure you follow these checkpoints to help avoid technical issues during the live session:
+Live sessions will be conducted using Adobe Connect. Ensure you follow these checkpoints to avoid technical issues during the live session:
 
 1. Run this [diagnostic test](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) to ensure that Adobe Connect is working properly on your system.
 1. Go over the [technical specifications](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) for Adobe Connect.
@@ -32,7 +32,7 @@ You'll find your personalized virtual meeting room link in your calendar invite.
 ## Software requirements
 
 - Recommended web browsers are Chrome or Firefox
-- Ability to access only the login screen\* for [Adobe CX Enterprise](https://experience.adobe.com/)
+- Ability to access the login screen for [Adobe CX Enterprise](https://experience.adobe.com/) (see note below)
 - Login information will be provided during training
 - Access to a text editor
 - A program to extract archive (.zip) files
@@ -40,7 +40,7 @@ You'll find your personalized virtual meeting room link in your calendar invite.
 
 >[!NOTE]
 >
->Do not log in. Please simply test that you can access the link in your browser without your company's network blocking it. You may see the message "your Adobe ID is not linked to your Adobe Experience Cloud solution accounts," which is expected. The links are not intended for learners to access anything in advance of class. On the first day of class, your instructor will provide the credentials to log in.
+>Do not log in. Please simply test that you can access the link in your browser without your company's network blocking it. You may see the message "your Adobe ID is not linked to your Adobe Experience Cloud solution accounts," which is expected. The link is not intended for learners to access anything in advance of class. On the first day of class, your instructor will provide the credentials to log in.
 
 
 
