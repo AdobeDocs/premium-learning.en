@@ -1,6 +1,6 @@
 ---
 title: Running into a technical issue while accessing training
-description: Find troubleshooting steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
+description: Learn about the steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
 ---
 Need help with launching a meeting room or content? Having issues with your in-class experience taking place right now?
 
@@ -27,7 +27,7 @@ Need help with launching a meeting room or content? Having issues with your in-c
 **Additional Adobe Connect Resources:**
 
 - [Adobe Connect Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
-- Adobe Connect Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
+- [Adobe Connect] Support: [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mention you are attending a training with Premium Learning)
 
 **Having audio issues?** If you've already tried the troubleshooting steps above and the problem persists, your organization's network or security settings may be preventing audio from working correctly. We recommend reaching out to your internal IT team to verify this, and [contact us](https://adobe.service-now.com/adls?category=26) for additional support.
 
@@ -37,10 +37,10 @@ Join the meeting room by using the personalized link inside your calendar invite
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
 1. Go to [My Learning](https://experienceleague.adobe.com/en/premium/learnings).
-1. Navigate to the **In Progress Learning** section.
-1. Under **Live Instructor**, locate your course.
-1. You should see an overview. Switch to the "Session detail" tab and locate the Day you're on. 
-1. Click on the **Launch** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.)
+1. Navigate to the **[!UICONTROL In Progress Learning]**** section.
+1. Under **[!UICONTROL Live Instructor]**, locate your course.
+1. You should see an overview. Switch to the **[!UICONTROL Session detail]** tab and locate the Day you're on. 
+1. Click on the **[!UICONTROL Launch]** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.)
 
 ## I'm missing a calendar invite or unable to find the personalized meeting room link for my cohort live session.
 
@@ -48,21 +48,21 @@ Join the meeting room by using the personalized link inside your calendar invite
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
 1. Go to [My Learning](https://experienceleague.adobe.com/en/premium/learnings).
-1. Navigate to the **In Progress Learning** section.
+1. Navigate to the **[!UICONTROL In Progress Learning]** section.
 1. Locate the cohort.
 1. Navigate to the appropriate week and expand the session.
-1. Click on the **Launch** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.).
+1. Click on the **[!UICONTROL Launch]** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.)
 
-## I’m having issues playing an on-demand video (it won’t load, player is stuck, a module is missing, etc.) What do I do?
+## I'm having issues playing an on-demand video (it won't load, player is stuck, a module is missing, etc.) What do I do?
 
-If you’ve tried clearing your browser cache with no success, please [contact us](https://adobe.service-now.com/adls?category=6) with a screenshot, on-demand course title, and description of your issue.
+If you've tried clearing your browser cache with no success, please [contact us](https://adobe.service-now.com/adls?category=6) with a screenshot, on-demand course title, and description of your issue.
 
 ## I'm having issues with my sandbox environment.
 
-If your sandbox environment has completed provisioning but you're running into access issues, [contact our Environments Support team](mailto:ATSEnvironmentSupport@adobe.com).
+If your sandbox environment has completed provisioning but you're running into access issues, [contact our Environments Support team](mailto:atsenvironmentsupport@adobe.com).
 
 ## Email Deliverability Tips
 
-Learning emails and calendar invites will be sent from [plsnore@adobe.com](mailto:plsnore@adobe.com). To ensure you receive important updates, add this email address to your contacts or safe sender list. If you think you’ve missed an email, please check your spam or junk folder, as well as any filtered inbox tabs (such as the “Other” tab in Outlook).
+Learning emails and calendar invites will be sent from [plsnore@adobe.com](mailto:plsnore@adobe.com). To ensure you receive important updates, add this email address to your contacts or safe sender list. If you think you've missed an email, please check your spam or junk folder, as well as any filtered inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook).
 
 Question not listed here? [Contact us](https://adobe.service-now.com/adls?category=6).

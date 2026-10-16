@@ -1,6 +1,6 @@
 ---
 title: Live instructor course system requirements
-description: Review the system requirements for all live instructor courses.
+description: Learn about the Adobe Connect, hardware, and software requirements for live instructor courses. Check your system before class starts.
 autotag-review: '2026-10-12T16:22:56.996Z'
 TQID: 'https://experienceleague.adobe.com/voxnxb196Od3hppzO-R9oY-iciTyHc-x6myezUvsAME'
 topic_v2:
@@ -22,7 +22,7 @@ You'll find your personalized virtual meeting room link in your calendar invite.
 
 Additional Resources:
 
-* [Help Center: Technical Support](https://experienceleague.adobe.com/en/premium/help-center/technical-support)
+* [Help Center: Technical Support](/help/main-guide/technical-support.md)
 * [Adobe Connect Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/)
 
 ## Hardware Requirements

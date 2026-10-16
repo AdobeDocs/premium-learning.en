@@ -1,6 +1,6 @@
 ---
 title: Prepare for a live instructor course
-description: Know what to expect after you enroll in a live instructor course and how to prepare for a successful training.
+description: Learn what to expect after you enroll in a live instructor course. Prepare for a successful training.
 autotag-review: '2026-10-12T16:22:20.051Z'
 TQID: 'https://experienceleague.adobe.com/MwJe7VS4vAKCbTzQHxFIjhSehGxtNEvkg7amzkF8ZtU'
 ---
@@ -14,7 +14,7 @@ After enrolling, you will receive an automated confirmation email and calendar i
 Email delivery tip:
 
 * Learning-related emails and calendar invites will come from [plsnore@adobe.com](mailto:plsnore@adobe.com) (Premium Learning Subscription no-reply email address). Add this email address to your contacts or safe sender list to ensure emails are delivered to your inbox.
-* If you’re missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook or similar filtered views).
+* If you're missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook or similar filtered views).
 
 ## What can I expect after I enroll in an onsite live instructor course?
 
@@ -25,7 +25,7 @@ After enrolling, you will receive an automated confirmation email. If you receiv
 Email delivery tip:
 
 * Learning-related emails will come from [plsnore@adobe.com](mailto:plsnore@adobe.com) (Premium Learning Subscription no-reply email address). Add this email address to your contacts or safe sender list to ensure emails are delivered to your inbox.
-* If you’re missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UICONTROL Other]** tab Outlook or similar filtered views).
+* If you're missing an email, please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UICONTROL Other]** tab Outlook or similar filtered views).
 
 ## Does Premium Learning provide demo or training instances? How do I access my environment for class?
 

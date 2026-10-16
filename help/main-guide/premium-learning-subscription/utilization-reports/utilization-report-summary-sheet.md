@@ -1,17 +1,17 @@
 ---
 title: Understanding Your Summary Sheet 
-description: Learn how to interpret the Summary sheet of the Learning Utilization Report, including enrollments, completion rates, attendance metrics, learning modalities, product utilization, and certifications. 
+description: Learn how to read the Summary sheet of your Learning Utilization Report. Interpret enrollments, completion, attendance, and certifications.
 ---
 
 # Understanding Your Summary Sheet  
 
-## What does the Summary sheet show?
+## What does the **[!UICONTROL Summary sheet]** show?
 
-The Summary sheet provides a high-level overview of your organization's learning activity, including enrollments, completion and attendance metrics, learning modalities, product training, and certifications earned.
+The **[!UICONTROL Summary sheet]** provides a high-level overview of your organization's learning activity, including enrollments, completion and attendance metrics, learning modalities, product training, and certifications earned.
 
-## A quick reference for reading the Summary tab of your Learning Utilization Report. Numbers vary by account. This explains what each section means.
+## A quick reference for reading the **[!UICONTROL Summary]** tab of your **[!UICONTROL Learning Utilization Report]**. Numbers vary by account. This explains what each section means.
 
-**Q: What are the four numbers at the top (Total Enrollments, Active Learners, Completion Rate, Learning Hours)?**
+**Q: What are the four numbers at the top (**[!UICONTROL Total Enrollments]**, **[!UICONTROL Active Learners]**, **[!UICONTROL Completion Rate]**, **[!UICONTROL Learning Hours]**)?**
 
 These are your headline KPIs — the fastest way to gauge program size and momentum.
 
@@ -19,15 +19,15 @@ These are your headline KPIs — the fastest way to gauge program size and momen
 >
 >Completion Rate and Learning Hours only count training that has actually happened (delivered or self-paced), not classes still scheduled.
 
-**Q: What does the Enrollment Trends by Month table show?**
+**Q: What does the **[!UICONTROL Enrollment Trends by Month]** table show?**
 
 Your enrollment activity over time, month by month, with % change. Use this to see whether engagement is growing, flat, or slowing down.
 
-**Q: What's the difference between the Status Breakdown and the Completion Rate?**
+**Q: What's the difference between the **[!UICONTROL Status Breakdown]** and the **[!UICONTROL Completion Rate]**?**
 
 Status Breakdown (Completed / In Progress / Not Started) covers all enrollments, including ones that haven't started yet. Completion Rate only counts classes learners have had a chance to finish.
 
-**Q: What does Class Delivery — Scheduled vs Delivered tell me?**
+**Q: What does **[!UICONTROL Class Delivery — Scheduled vs Delivered]** tell me?**
 
 Whether your enrollments have actually run yet. It splits everything into Delivered, In Progress, Scheduled, and Self-Paced — this is the basis for what counts as *eligible* in the completion math.
 
@@ -55,5 +55,5 @@ An enrollment can span multiple products and get counted under each one it touch
 
 Formal Adobe certifications earned by learners. One learner can hold multiple certifications, so the certification count isn't the same as a headcount of certified people. 
 
-This guide covers the Summary sheet only. A separate guide covers the Enrollment Details sheet.
+This guide covers the Summary sheet only. A separate guide covers the **[!UICONTROL Enrollment Details]** sheet.
  
