@@ -18,7 +18,7 @@ topic_v2:
 
 ## I'm missing calendar invite(s) for my cohort live sessions.
 
-The invites come from [plsnore@adobe.com](mailto:plsnore@adobe.com) (used for learning-related notifications and calendar invites). Please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UiCONTROL Other]** tab in Outlook or similar filtered views). 
+The invites come from [plsnore@adobe.com](mailto:plsnore@adobe.com) (used for learning-related notifications and calendar invites). Please check your spam or junk folder, and any secondary inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook or similar filtered views). 
  
 Join the meeting room by **using the personalized link inside your calendar invites**. 
  
