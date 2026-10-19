@@ -1,6 +1,17 @@
 ---
 title: Running into a technical issue while accessing training
 description: Learn about the steps and support resources for training access issues, Adobe Connect performance problems, meeting room access, on-demand content playback, and sandbox environments.
+product_v2:
+  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
+    internal-label: Premium Learning
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 Need help with launching a meeting room or content? Having issues with your in-class experience taking place right now?
 

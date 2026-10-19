@@ -3,6 +3,17 @@ title: 'Know Before You Go: Live instructor courses - Overview'
 description: Get ready for your live instructor course, learn how to join your session, and confirm that your system meets the requirements.
 autotag-review: '2026-10-12T16:23:11.595Z'
 TQID: 'https://experienceleague.adobe.com/jNBQiEa4dcYeQMpZVMfvATpq23TN4w63a1nyPAu4lzk'
+product_v2:
+  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
+    internal-label: Premium Learning
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 
 # Know Before You Go: Live instructor courses - Overview

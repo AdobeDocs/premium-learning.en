@@ -1,6 +1,17 @@
 ---
 title: System requirements for cohort live sessions
 description: Prepare for cohort live sessions with Adobe Connect setup guidance, hardware and software requirements, and technical support resources.
+product_v2:
+  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
+    internal-label: Premium Learning
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 
 # System requirements for cohort live sessions
