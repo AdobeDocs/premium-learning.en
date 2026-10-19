@@ -1,17 +1,6 @@
 ---
 title: Premium Learning Subscription Terms and Conditions
 description: This articles covers Premium Learning Subscription Terms and Conditions.
-product_v2:
-  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
-    internal-label: Premium Learning
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-    internal-label: Admin
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-    internal-label: Developer
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
 ---
 
 # Premium Learning Subscription Terms and Conditions
@@ -20,51 +9,51 @@ Effective Date: March 30, 2026
 
 ## 1. Applicability
 
-For Customers who have a License Agreement with Adobe, that License Agreement as supplemented by these Terms and Conditions will govern those Customers' use of the Premium Learning Subscription.
+For Customers who have a License Agreement with Adobe, that License Agreement as supplemented by these Terms and Conditions will govern those Customers’ use of the Premium Learning Subscription.
 
-Adobe may modify these Premium Learning Subscription terms from time to time, provided that such modifications do not materially diminish Adobe's obligations or Customer's rights set forth herein.
+Adobe may modify these Premium Learning Subscription terms from time to time, provided that such modifications do not materially diminish Adobe’s obligations or Customer’s rights set forth herein.
 
 ## 2. Definitions
 
 As used in these Terms and Conditions:
 
-* **"Adobe Learning System"** means the Learning Management System where the subscription entitlements are accessible to the customer.
-* **"Course Materials"** means written, electronic, or other materials distributed for use by course participants including but not limited to all patent rights, copyrights, trademark rights, and trade secret rights.
-* **"Customer"** means the entity or individual which is a party to a License Agreement with Adobe, or in the absence of a License Agreement, that entity or individual who agrees to these Terms and Conditions.
-* **"Learning Courses"** means all forms of instructor-led courses delivered virtually or in-person and courses made available on-demand.
-* **"Learning Subscription"** and/or "Subscription" means an entitlement that allows Customer to attend an unlimited number of public education courses and/or access to on-demand courses over the duration of the Subscription Period.
+* **“Adobe Learning System”** means the Learning Management System where the subscription entitlements are accessible to the customer.
+* **“Course Materials”** means written, electronic, or other materials distributed for use by course participants including but not limited to all patent rights, copyrights, trademark rights, and trade secret rights.
+* **“Customer”** means the entity or individual which is a party to a License Agreement with Adobe, or in the absence of a License Agreement, that entity or individual who agrees to these Terms and Conditions.
+* **"Learning Courses”** means all forms of instructor-led courses delivered virtually or in-person and courses made available on-demand.
+* **"Learning Subscription"** and/or “Subscription” means an entitlement that allows Customer to attend an unlimited number of public education courses and/or access to on-demand courses over the duration of the Subscription Period.
 * **"License Agreement"** means the current end-user license agreement entered between Customer and Adobe under which Customer may purchase Learning Services.
-* **"Named User"** means an individual authorized by the Customer and has an email address from the customer domain to use the entitlements included in the Learning Subscription product.
-* **"No Show"** means not attending a course in which Customer was enrolled and never cancelled prior to the Start Date of the course.
-* **"Subscription Period"** means that period starting from the Start Date and ending on the End Date in which the Learning Subscription may be utilized.
+* **“Named User”** means an individual authorized by the Customer and has an email address from the customer domain to use the entitlements included in the Learning Subscription product.
+* **“No Show”** means not attending a course in which Customer was enrolled and never cancelled prior to the Start Date of the course.
+* **“Subscription Period”** means that period starting from the Start Date and ending on the End Date in which the Learning Subscription may be utilized.
 
 ## 3. Overview
 
-The Premium Learning Subscription ("Subscription") is a paid educational service offered by Adobe that provides access to all users covered under the applicable enterprise agreement(s) for Premium and Premium + Private Training Subscriptions and seat-based access for Partner Premium Learning Subscriptions. It provides subscribing organizations and learners with unlimited access to curated, role-based, and experiential learning content, including instructor-led training, on-demand courses, hands-on labs, and certification preparation. This Subscription is governed by these Terms and Conditions ("Terms"), which supplement and incorporate by reference the Adobe Enterprise Licensing Terms.
+The Premium Learning Subscription (“Subscription”) is a paid educational service offered by Adobe that provides access to all users covered under the applicable enterprise agreement(s) for Premium and Premium + Private Training Subscriptions and seat-based access for Partner Premium Learning Subscriptions. It provides subscribing organizations and learners with unlimited access to curated, role-based, and experiential learning content, including instructor-led training, on-demand courses, hands-on labs, and certification preparation. This Subscription is governed by these Terms and Conditions (“Terms”), which supplement and incorporate by reference the Adobe Enterprise Licensing Terms.
 
 ## 4. Premium Learning Subscription
 
-The Premium Learning Subscriptions include Instructor-led Courses (Public), Learning Cohorts, on-demand courses, Exam Vouchers, and Private and Personalized Learning (Virtual or In-Person at Customer's location; available only for Premium + Private Training Subscriptions).  All training courses are for registered participants only.  Non-registered individuals may not attend or view any courses.  Requests to cancel or reschedule any course must be received and confirmed by Adobe at least two (2) days prior to the scheduled start date of the applicable learning course.  For public courses, learners may unenroll from the class on the Adobe learning platform. Public courses must be rescheduled by the Customer at the time of cancellation.  Private courses must be rescheduled by the Customer and delivered by Adobe prior to the contractual end date. Any request to cancel or reschedule outside the specified timeframe will be reviewed on an individual basis to determine approval. Registered students are responsible for meeting the minimum system requirements to participate in virtually delivered courses. Minimum system requirements will be outlined in each course description.
+The Premium Learning Subscriptions include Instructor-led Courses (Public), Learning Cohorts, on-demand courses, Exam Vouchers, and Private and Personalized Learning (Virtual or In-Person at Customer’s location; available only for Premium + Private Training Subscriptions).  All training courses are for registered participants only.  Non-registered individuals may not attend or view any courses.  Requests to cancel or reschedule any course must be received and confirmed by Adobe at least two (2) days prior to the scheduled start date of the applicable learning course.  For public courses, learners may unenroll from the class on the Adobe learning platform. Public courses must be rescheduled by the Customer at the time of cancellation.  Private courses must be rescheduled by the Customer and delivered by Adobe prior to the contractual end date. Any request to cancel or reschedule outside the specified timeframe will be reviewed on an individual basis to determine approval. Registered students are responsible for meeting the minimum system requirements to participate in virtually delivered courses. Minimum system requirements will be outlined in each course description.
 
 **Learning Subscriptions**: Learning Subscriptions provide access to attend an unlimited number of public education courses and/or access to on-demand learning courses over the duration of the Subscription Period.  Learning Subscriptions are not for resale or commercial use.  Customer must use all entitlements during the applicable Subscription Period, and such entitlements cannot be credited, carried over, or used for any other purpose after expiration of the applicable Subscription Period.  Learning Subscriptions are non-refundable once purchased.  Adobe will provide access instructions to Customer within two business days of receipt of an executed order.  The Learning Subscription Start Date and End Date is governed by the Adobe Sales Order.
 
 Upon purchasing a Learning Subscription product, all users covered under the applicable enterprise agreement(s) become the Named User(s) for the Learning Subscription.  Only a Named User may access the content provided by the Learning Subscription.  Sharing content or access with anyone, but the Named User may result in revocation of the Learning Subscription.  The Learning Subscription is non-transferable.
 
-Named Users may register for public courses on the Adobe learning system. All Named Users must comply with the public course cancellation and rescheduling policies mentioned in the "Premium Learning Subscription" section above.  Failure to cancel or reschedule within the two (2) day grace period or being a No Show on more than 3 occasions may result in the Named User's Learning Subscription access being deactivated entirely for the remainder of the Subscription Period.
+Named Users may register for public courses on the Adobe learning system. All Named Users must comply with the public course cancellation and rescheduling policies mentioned in the “Premium Learning Subscription” section above.  Failure to cancel or reschedule within the two (2) day grace period or being a No Show on more than 3 occasions may result in the Named User’s Learning Subscription access being deactivated entirely for the remainder of the Subscription Period
 
-**Public Education Courses**: Public Education Courses ("Public Courses") are instructor-led courses held either virtually or at an Adobe-approved training center.  Public Courses will be conducted exclusively in English or Japanese. Delivery in any language other than English or Japanese is available only under the Premium Learning + Private Training offering. Attendees register for public courses through the Adobe learning platform. If a class is cancelled due to low enrollment, you will be enrolled in the next available class.
+**Public Education Courses**: Public Education Courses (“Public Courses”) are instructor-led courses held either virtually or at an Adobe-approved training center.  Public Courses will be conducted exclusively in English or Japanese. Delivery in any language other than English or Japanese is available only under the Premium Learning + Private Training offering. Attendees register for public courses through the Adobe learning platform. If a class is cancelled due to low enrollment, you will be enrolled in the next available class.
 
 **Public Learning Cohorts**: Public Learning Cohorts are held virtually over the course of a few weeks. Attendees register for Public Learning Cohorts through the Adobe learning platform. If a class is cancelled due to low enrollment, you will be enrolled in the next available class.
 
-**Exam Vouchers**: An Exam Voucher is an entitlement that allows a Named User to register for an Adobe Customer Experience Orchestration Certification or Credential.  An Exam Voucher (i) may be used by one person, one time, for one exam fee; (ii) must be used within one year of the applicable order date; (iii) becomes void if altered or revised in any way; (iv) may not be canceled or redeemed for cash, credit, or refund; (v) may be used only by the Customer, and (vi) may be used for any Adobe Customer Experience Orchestration Certification Program exams.  Neither Adobe's authorized testing vendor nor Adobe shall be responsible for lost or stolen Exam Vouchers. Exam registrations redeemed with a voucher must be completed before the Exam Voucher expiration date.  Expired Exam Vouchers have no value and will not be extended. Usage of the Exam Vouchers is bound by the fair use clause included in these terms and conditions.
+**Exam Vouchers**: An Exam Voucher is an entitlement that allows a Named User to register for an Adobe Customer Experience Orchestration Certification or Credential.  An Exam Voucher (i) may be used by one person, one time, for one exam fee; (ii) must be used within one year of the applicable order date; (iii) becomes void if altered or revised in any way; (iv) may not be canceled or redeemed for cash, credit, or refund; (v) may be used only by the Customer, and (vi) may be used for any Adobe Customer Experience Orchestration Certification Program exams.  Neither Adobe’s authorized testing vendor nor Adobe shall be responsible for lost or stolen Exam Vouchers. Exam registrations redeemed with a voucher must be completed before the Exam Voucher expiration date.  Expired Exam Vouchers have no value and will not be extended. Usage of the Exam Vouchers is bound by the fair use clause included in these terms and conditions.
 
 **Premium + Private Training Subscription Only Offerings**
 
-**Private Virtual Education Courses**: Private Virtual Education courses are instructor-led sessions delivered exclusively for a specific Customer via Adobe's virtual training platform. Each course requires a minimum of six learners and allows a maximum of fifteen learners, unless otherwise agreed upon in the applicable contractual agreement. Courses must be requested four (4) to six (6) weeks in advance to align necessary resources. Course content will align with the standard curriculum offered in public instructor-led courses but does not include cohorts. Minor adjustments to the content may be made at the instructor's discretion to better align with the Customer's needs, provided such adjustments remain within the scope of the available course offerings. Adobe reserves the right to decline customer requests for course modifications that exceed the scope of minor adjustments or require substantial changes to the standard curriculum. Such determinations will be made by Adobe in good faith and based on instructional feasibility and resource availability.
+**Private Virtual Education Courses**: Private Virtual Education courses are instructor-led sessions delivered exclusively for a specific Customer via Adobe’s virtual training platform. Each course requires a minimum of six learners and allows a maximum of fifteen learners, unless otherwise agreed upon in the applicable contractual agreement. Courses must be requested four (4) to six (6) weeks in advance to align necessary resources. Course content will align with the standard curriculum offered in public instructor-led courses but does not include cohorts. Minor adjustments to the content may be made at the instructor’s discretion to better align with the Customer’s needs, provided such adjustments remain within the scope of the available course offerings. Adobe reserves the right to decline customer requests for course modifications that exceed the scope of minor adjustments or require substantial changes to the standard curriculum. Such determinations will be made by Adobe in good faith and based on instructional feasibility and resource availability.
 
-**Private Onsite Education Courses**: Private onsite education courses are instructor-led sessions delivered exclusively for a specific Customer at the Customer's location. The subscription price includes instructor travel expenses. Each course requires a minimum of six learners and allows a maximum of twenty learners, unless otherwise agreed upon in the applicable contractual agreement. Courses must be requested four (4) to six (6) weeks in advance to align necessary resources. Course content will align with the standard curriculum offered in public instructor-led courses but does not include cohorts. Minor adjustments to the content may be made at the instructor's discretion to better align with the Customer's needs, provided such adjustments remain within the scope of the available course offerings. Adobe reserves the right to decline customer requests for course modifications that exceed the scope of minor adjustments or require substantial changes to the standard curriculum. Such determinations will be made by Adobe in good faith and based on instructional feasibility and resource availability.
+**Private Onsite Education Courses**: Private onsite education courses are instructor-led sessions delivered exclusively for a specific Customer at the Customer’s location. The subscription price includes instructor travel expenses. Each course requires a minimum of six learners and allows a maximum of twenty learners, unless otherwise agreed upon in the applicable contractual agreement. Courses must be requested four (4) to six (6) weeks in advance to align necessary resources. Course content will align with the standard curriculum offered in public instructor-led courses but does not include cohorts. Minor adjustments to the content may be made at the instructor’s discretion to better align with the Customer’s needs, provided such adjustments remain within the scope of the available course offerings. Adobe reserves the right to decline customer requests for course modifications that exceed the scope of minor adjustments or require substantial changes to the standard curriculum. Such determinations will be made by Adobe in good faith and based on instructional feasibility and resource availability.
 
-**Access to Adobe sandbox environments**: As part of the Premium + Private Training Subscription offering, Customers may request expanded access to Adobe Customer Experience Orchestration sandbox environments. This access is intended to support learning, experimentation and enablement activities, and are not configured for any specific use case. The scope and duration of sandbox access may vary and are subject to Adobe's discretion, based on the Customer's subscription level, use case, and technical requirements. Adobe reserves the right to modify or revoke sandbox access at any time to maintain system integrity and ensure equitable resource allocation.
+**Access to Adobe sandbox environments**: As part of the Premium + Private Training Subscription offering, Customers may request expanded access to Adobe Customer Experience Orchestration sandbox environments. This access is intended to support learning, experimentation and enablement activities, and are not configured for any specific use case. The scope and duration of sandbox access may vary and are subject to Adobe’s discretion, based on the Customer’s subscription level, use case, and technical requirements. Adobe reserves the right to modify or revoke sandbox access at any time to maintain system integrity and ensure equitable resource allocation.
 
 **Premium Partner Subscription Only Offerings**
 
@@ -78,9 +67,9 @@ Named Users may register for public courses on the Adobe learning system. All Na
     1. Premium + Private Training Subscription with Access to Private & Personalized Training: Includes all Premium features plus access to private, role-specific, and tailored training engagements.
     1. Partner Premium Subscription: Includes everything that is included in the Premium Subscription and additional access to partner-specific training modules.
 
-1. **Access Duration**. Subscription access is co-termed with the Customer's Adobe Experience Cloud product license. A 1-year minimum contract is required.
+1. **Access Duration**. Subscription access is co-termed with the Customer’s Adobe Experience Cloud product license. A 1-year minimum contract is required.
 
-1. **Enterprise-Wide Access**. All tiers grant access to all eligible employees within the subscribing organization, subject to Adobe's Fair Use Policy.
+1. **Enterprise-Wide Access**. All tiers grant access to all eligible employees within the subscribing organization, subject to Adobe’s Fair Use Policy.
 
 ## 6. Scope of Services
 
@@ -143,7 +132,7 @@ These thresholds are intended to guide reasonable usage expectations and ensure 
 
 **Definition of Fair Use for Private Training Access in the Premium + Private Training Subscription**
 
-For the purposes of this subscription, Adobe defines "fair use" of the private training based on the Customer's Customer Experience Orchestration Annual Recurring Revenue (CXO ARR) as follows:
+For the purposes of this subscription, Adobe defines "fair use" of the private training based on the Customer’s Customer Experience Orchestration Annual Recurring Revenue (CXO ARR) as follows:
 
 * CXO ARR < $700K: Up to 2 private events per year
 * CXO ARR between $700K and $2M: Up to 4 private events per year
@@ -165,7 +154,7 @@ These parameters are intended to promote equitable and consistent access to sand
 
 ## 8. Pricing and Payment
 
-Pricing is determined based on the Customer's Annual Recurring Revenue (ARR) bracket and selected Subscription tier. All fees are non-refundable once the Subscription term begins. Discounts or promotional pricing may be offered for limited periods at Adobe's discretion. All Premium Learning Subscriptions can be purchased via a contractual agreement between Adobe and the Customer.
+Pricing is determined based on the Customer’s Annual Recurring Revenue (ARR) bracket and selected Subscription tier. All fees are non-refundable once the Subscription term begins. Discounts or promotional pricing may be offered for limited periods at Adobe’s discretion. All Premium Learning Subscriptions can be purchased via a contractual agreement between Adobe and the Customer.
 
 ## 9. Renewals and Cancellations
 
@@ -174,7 +163,7 @@ Pricing is determined based on the Customer's Annual Recurring Revenue (ARR) bra
 
 ## 10. Support and Service Levels
 
-Technical support is available for access issues via Premium Learning Support. Service levels for Private & Personalized training engagements and sandbox environments are governed by Adobe's Enterprise Licensing Terms and applicable Service Level Agreements (SLAs).
+Technical support is available for access issues via Premium Learning Support. Service levels for Private & Personalized training engagements and sandbox environments are governed by Adobe’s Enterprise Licensing Terms and applicable Service Level Agreements (SLAs).
 
 ## 11. Intellectual Property
 
