@@ -14,11 +14,6 @@ role_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-<<<<<<< Updated upstream
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
-=======
->>>>>>> Stashed changes
 ---
 
 # Utilization Report Overview
