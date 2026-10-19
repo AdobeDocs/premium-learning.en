@@ -1,14 +1,8 @@
 ---
 title: Subscription Benefits and Renewal
 description: Learn about Premium Learning Subscription benefits and how to renew access to your learning content.
-<<<<<<< Updated upstream
 TQID: 'https://experienceleague.adobe.com/50qUwhM-ME8WMPvM1Lekj-OsYHvDd-zPiFcRC86XwfE'
 product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: CX Enterprise
-=======
-product_v2:
->>>>>>> Stashed changes
   - id: dcfc91be-f1ae-5a16-961d-a05847361ced
     internal-label: Premium Learning
 role_v2:
