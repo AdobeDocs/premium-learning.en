@@ -1,6 +1,17 @@
 ---
 title: Reschedule and Cancellation Policies
 description: Learn how to cancel or reschedule a cohort or course enrollment. Review the policies that apply before you unenroll.
+product_v2:
+  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
+    internal-label: Premium Learning
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 
 # Reschedules and Cancellations
@@ -9,17 +20,17 @@ description: Learn how to cancel or reschedule a cohort or course enrollment. Re
 
 To cancel your enrollment in a cohort or course:
 
-1. Find your enrollment listed on the **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings) page.
+1. Find your enrollment listed on the [**[!UICONTROL My Learning]**](https://experienceleague.adobe.com/en/premium/learnings) page.
 2. Click **[!UICONTROL Unenroll]**.
 
 Visit the [Terms and Conditions](/help/main-guide/terms-and-conditions.md) for full information on rescheduling, cancellation and No-Show policies.
 
-### How do I reschedule my enrollment?
+## How do I reschedule my enrollment?
 
 To reschedule for a different date:
 
-1. Unenroll from your cohort or course. You can find your enrollments listed on the **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings) page.
-2. Return to the **[!UICONTROL Premium Catalog]**(https://experienceleague.adobe.com/en/premium/premium-search) to enroll in another cohort or course date.
+1. Unenroll from your cohort or course. You can find your enrollments listed on the [**[!UICONTROL My Learning]**](https://experienceleague.adobe.com/en/premium/learnings) page.
+2. Return to the [**[!UICONTROL Premium Catalog]**](https://experienceleague.adobe.com/en/premium/premium-search) to enroll in another cohort or course date.
 
 Visit the [Terms and Conditions](/help/main-guide/terms-and-conditions.md) for full information on rescheduling, cancellation and No-Show policies.
 

@@ -3,6 +3,17 @@ title: Join a live instructor course session
 description: Learn how to join your live instructor course session on the scheduled day of class, including backup steps if your calendar invite is missing.
 autotag-review: '2026-10-12T16:21:58.724Z'
 TQID: 'https://experienceleague.adobe.com/1iGMDIZ1LrAEqlmWxQrDm74csQvBSInkVcjP2-PmkpI'
+product_v2:
+  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
+    internal-label: Premium Learning
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 
 # Join a live instructor course session

@@ -1,8 +1,19 @@
 ---
 title: Utilization Report Overview
 description: Learn about Premium Learning Subscription utilization reports, including report access, available historical data, and changes from previous reports.
-autotag-review: '2026-10-13T17:59:48.232Z'
+autotag-review: '2026-10-19T15:42:56.241Z'
 TQID: 'https://experienceleague.adobe.com/DKaonydya8AzyNltcvU-gTpn8HmWIrt8mN0hDZTqZwM'
+product_v2:
+  - id: dcfc91be-f1ae-5a16-961d-a05847361ced
+    internal-label: Premium Learning
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
 ---
 
 # Utilization Report Overview
