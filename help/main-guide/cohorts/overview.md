@@ -1,5 +1,5 @@
 ---
-title: Cohorts - Overview
+title: Cohorts - Overview 
 description: Learn how cohorts are structured, what's expected of you, how to get set up and join live sessions, and where to find support.
 product_v2:
   - id: dcfc91be-f1ae-5a16-961d-a05847361ced
