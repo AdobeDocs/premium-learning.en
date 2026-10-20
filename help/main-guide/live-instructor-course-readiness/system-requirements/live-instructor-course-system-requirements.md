@@ -47,4 +47,4 @@ Additional Resources:
 
 >[!NOTE]
 >
->Do not log in. Please simply test that you can access the link in your browser without your company networks blocking it. You may see "your Adobe ID is not linked to your Adobe Experience Cloud solution accounts" message, which is expected. The links are not intended for learners to access anything in advance until you arrive at class. On the first day of class, your instructor will provide the credentials to log in.
+>Do not log in. Please simply test that you can access the link in your browser without your company network blocking it. You may see "your Adobe ID is not linked to your Adobe Experience Cloud solution accounts" message, which is expected. The links are not intended for learners to access anything in advance until you arrive at class. On the first day of class, your instructor will provide the credentials to log in.

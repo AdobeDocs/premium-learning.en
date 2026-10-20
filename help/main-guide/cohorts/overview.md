@@ -24,4 +24,4 @@ Get everything you need to succeed in your Adobe Premium Learning cohort. Select
 * [Your learning journey](/help/main-guide/cohorts/learning-journey.md): See how attendance is tracked, how to stay on track with quizzes and the Capstone Challenge, and what to expect at the end of your cohort.
 * [System requirements for cohort live sessions](/help/main-guide/cohorts/cohort-live-session-system-requirements.md): Check the Adobe Connect, hardware, and software requirements for your live sessions.
 * [Community](/help/main-guide/cohorts/community.md): Connect with your cohort, instructor, and facilitator through the discussion board in **[!UICONTROL My Hub]**.
-* [Cohort support](/help/main-guide/cohorts/support.md): Find missing calendar invites, launch live sessions from My Learning, and get help with your sandbox environment and Adobe Connect.
+* [Cohort support](/help/main-guide/cohorts/support.md): Find missing calendar invites, launch live sessions from **[!UICONTROL My Learning]**, and get help with your sandbox environment and Adobe Connect.
