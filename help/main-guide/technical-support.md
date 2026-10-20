@@ -23,7 +23,7 @@ Need help with launching a meeting room or content? Having issues with your in-c
 
 1. Run this [diagnostic test](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) to ensure that Adobe Connect is working properly on your system.
 1. Browser: Clear your browser cache and then relaunch your browser. If that is unsuccessful, open the link in Incognito mode.
-1. Adobe Connect application: the app is not required, as the meeting link is browser-friendly. However, if the desktop app is already installed and you are facing issues, uninstall the Adobe Connect application and reinstall it using the latest version provided [here](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
+1. Adobe Connect application: The app is not required, as the meeting link is browser-friendly. However, if the desktop app is already installed and you are facing issues, uninstall the Adobe Connect application and reinstall it using the latest version provided [here](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 
 **Additional checkpoints:**
 
@@ -64,7 +64,7 @@ If you are missing a calendar invite, or unable to join from the personalized li
 1. Navigate to the appropriate week and expand the session.
 1. Click on the **[!UICONTROL Launch]** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.)
 
-## I'm having issues playing an on-demand video (it won't load, player is stuck, a module is missing, etc.) What do I do?
+## I'm having issues playing an on-demand video (it won't load, player is stuck, a module is missing, etc.). What do I do?
 
 If you've tried clearing your browser cache with no success, please [contact us](https://adobe.service-now.com/adls?category=6) with a screenshot, on-demand course title, and description of your issue.
 
