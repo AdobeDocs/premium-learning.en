@@ -1,5 +1,5 @@
 ---
-title: Premium Learning Subscription Information
+title: Premium Learning Information
 description: Find information about subscription benefits, renewal, and learning utilization reports.
 product_v2:
   - id: dcfc91be-f1ae-5a16-961d-a05847361ced
@@ -14,7 +14,7 @@ topic_v2:
     internal-label: Troubleshooting
 ---
 
-# Premium Learning Subscription Information
+# Premium Learning Information
 
 Explore your subscription benefits, renewal options, and learning utilization reports. Select a linked page name below to learn more.
 
