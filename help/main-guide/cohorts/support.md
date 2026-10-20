@@ -25,7 +25,7 @@ Join the meeting room by **using the personalized link inside your calendar invi
 If you are missing a calendar invite, follow these backup steps to launch the meeting room: 
 
 1. Go to **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings).
-1. Navigate to the **[!UICONTROL In Progress Learning]** section 
+1. Navigate to the **[!UICONTROL In Progress Learning]** section .
 1. Locate the cohort 
 1. Navigate to the appropriate week and expand the session 
 1. Click on the **[!UICONTROL Launch]** button, which will launch your meeting room. (Note: the meeting room becomes available 15 minutes before start time.) 
