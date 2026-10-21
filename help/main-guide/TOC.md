@@ -1,5 +1,5 @@
 ---
-user-guide-title: Premium Learning Knowledge Base
+user-guide-title: Premium Learning Help Center
 user-guide-description: Find answers about Premium Learning, including subscription benefits and renewal, cohort and live instructor course preparation, system requirements, rescheduling and cancellations, and technical support.
 ---
 
