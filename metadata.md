@@ -7,7 +7,7 @@ product_v2:
 usetq: true
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/premium-learning-kb.en
+git-repo: https://github.com/AdobeDocs/premium-learning.en
 index: false
 ---
 
