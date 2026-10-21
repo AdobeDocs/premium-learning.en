@@ -6,8 +6,6 @@ user-guide-description: Find answers about Premium Learning, including subscript
 # Premium Learning Knowledge Base {#premium-learning-kb}
 
 - [Overview](/help/main-guide/overview.md)
-- [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
-- [Reschedule and cancellation policies](/help/main-guide/reschedule-and-cancellation-policies.md)
 - Premium Learning Information {#pls}
     - [Premium Learning Information overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
@@ -17,6 +15,8 @@ user-guide-description: Find answers about Premium Learning, including subscript
         - [Utilization report overview](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)
         - [Utilization Report Summary Sheet](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-summary-sheet.md)
         - [Understanding Your Enrollment Details Sheet](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-enrollment-details-sheet.md)
+- [Running into a technical issue while accessing training](/help/main-guide/technical-support.md)
+- [Reschedule and cancellation policies](/help/main-guide/reschedule-and-cancellation-policies.md)
 - Know Before You Go: Cohorts {#cohorts}
     - [Overview](/help/main-guide/cohorts/overview.md)
     - [Cohort structure](/help/main-guide/cohorts/cohort-structure.md)
