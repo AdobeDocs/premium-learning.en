@@ -3,10 +3,10 @@ user-guide-title: Premium Learning Knowledge Base
 user-guide-description: Find answers about Premium Learning, including subscription benefits and renewal, cohort and live instructor course preparation, system requirements, rescheduling and cancellations, and technical support.
 ---
 
-# Premium Learning Knowledge Base {#premium-learning-kb}
+# Premium Learning Help Center {#help-center}
 
 - [Overview](/help/main-guide/overview.md)
-- Premium Learning Information {#pls}
+- Premium Learning Information {#information}
     - [Premium Learning Information overview](/help/main-guide/premium-learning-subscription/overview.md)
     - [Subscription Benefits and Renewal](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)
     - [I have a Premium Learning Subscription. What learning options can I access?](/help/main-guide/learning-options.md)
