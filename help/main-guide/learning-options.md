@@ -28,7 +28,7 @@ Participating in a cohort: [Know Before You Go](/help/main-guide/cohorts/overvie
 
 Our live courses, led by expert instructors, are developed in collaboration with Adobe Experience Cloud product teams. With Premium Learning, our instructors guide you through interactive sessions with hands-on exercises in our product sandboxes. You'll get slides, activity guides, and a completion badge for each course.
 
-Participating in a live instructor course: [Know Before You Go](https://experienceleague.adobe.com/en/docs/premium-learning-kb/premium-learning-kb/live-instructor-course-readiness)
+Participating in a live instructor course: [Know Before You Go](live-instructor-course-readiness/overview.md)
 
 ## On-demand courses
 

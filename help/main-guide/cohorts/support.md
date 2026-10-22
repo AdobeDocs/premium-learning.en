@@ -24,7 +24,7 @@ Join the meeting room by **using the personalized link inside your calendar invi
  
 If you are missing a calendar invite, follow these backup steps to launch the meeting room: 
 
-1. Go to **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings).
+1. Go to [**[!UICONTROL My Learning]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navigate to the **[!UICONTROL In Progress Learning]** section .
 1. Locate the cohort.
 1. Navigate to the appropriate week and expand the session.
@@ -34,7 +34,7 @@ If you are missing a calendar invite, follow these backup steps to launch the me
 
 If you are unable to join from the personalized link inside your calendar invite, follow these backup steps to launch the meeting room: 
 
-1. Go to **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings).
+1. Go to [**[!UICONTROL My Learning]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navigate to the **[!UICONTROL In Progress Learning]** section.
 1. Locate the cohort.
 1. Navigate to the appropriate week and expand the session.
