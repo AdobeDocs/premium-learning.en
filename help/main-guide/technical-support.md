@@ -47,7 +47,7 @@ Need help with launching a meeting room or content? Having issues with your in-c
 Join the meeting room by using the personalized link inside your calendar invites.
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
-1. Go to **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings).
+1. Go to [**[!UICONTROL My Learning]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navigate to the **[!UICONTROL In Progress Learning]** section.
 1. Under **[!UICONTROL Live Instructor]**, locate your course.
 1. You should see an overview. Switch to the **[!UICONTROL Session detail]** tab and locate the Day you're on. 
@@ -58,7 +58,7 @@ If you are missing a calendar invite, or unable to join from the personalized li
 Join the meeting room by using the personalized link inside your calendar invites. 
 
 If you are missing a calendar invite, or unable to join from the personalized link, follow these backup steps to launch the meeting room:
-1. Go to **[!UICONTROL My Learning]**(https://experienceleague.adobe.com/en/premium/learnings).
+1. Go to [**[!UICONTROL My Learning]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navigate to the **[!UICONTROL In Progress Learning]** section.
 1. Locate the cohort.
 1. Navigate to the appropriate week and expand the session.

@@ -29,7 +29,7 @@ You'll find your personalized virtual meeting room link in your calendar invite.
 
 ### Additional resources
 
-- [Help Center: Technical Support](https://experienceleague.adobe.com/en/premium/help-center/technical-support)
+- [Help Center: Technical Support](/help/main-guide/technical-support.md)
 - [Adobe Connect Support Blog](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/)
 
 ## Hardware requirements
