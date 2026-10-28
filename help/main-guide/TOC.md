@@ -1,6 +1,10 @@
 ---
 user-guide-title: Premium Learning Help Center
 user-guide-description: Find answers about Premium Learning, including subscription benefits and renewal, cohort and live instructor course preparation, system requirements, rescheduling and cancellations, and technical support.
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+autotag-review: '2026-10-28T16:28:39.221Z'
 ---
 
 # Premium Learning Help Center {#help-center}
