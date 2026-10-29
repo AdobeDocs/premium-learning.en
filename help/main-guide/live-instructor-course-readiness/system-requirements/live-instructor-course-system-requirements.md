@@ -6,11 +6,6 @@ TQID: 'https://experienceleague.adobe.com/voxnxb196Od3hppzO-R9oY-iciTyHc-x6myezU
 product_v2:
   - id: dcfc91be-f1ae-5a16-961d-a05847361ced
     internal-label: Premium Learning
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-    internal-label: Admin
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-    internal-label: Developer
 ---
 
 # Live instructor course system requirements
