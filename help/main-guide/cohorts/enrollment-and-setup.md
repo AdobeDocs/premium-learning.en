@@ -19,7 +19,7 @@ You will receive an enrollment confirmation email and calendar invites for all t
 
 To help ensure our emails and calendar invites are delivered to your inbox, add the following addresses to your contacts or safe sender list:
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)** (used for learning-related notifications and calendar invites)
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)** (a no-reply address used for learning-related notifications and calendar invites)
 
 **[environment@adobe.com](mailto:environment@adobe.com)** and **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** (used for sandbox and environment-related notifications)
 

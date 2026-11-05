@@ -69,6 +69,6 @@ If your sandbox environment has completed provisioning but you're running into a
 
 ## Email Deliverability Tips
 
-Learning emails and calendar invites will be sent from [plsnore@adobe.com](mailto:plsnore@adobe.com). To ensure you receive important updates, add this email address to your contacts or safe sender list. If you think you've missed an email, please check your spam or junk folder, as well as any filtered inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook).
+Learning emails and calendar invites are sent from [plsnore@adobe.com](mailto:plsnore@adobe.com) (no-reply address). To ensure you receive important updates, add this email address to your contacts or safe sender list. If you think you've missed an email, please check your spam or junk folder, as well as any filtered inbox tabs (such as the **[!UICONTROL Other]** tab in Outlook).
 
 Question not listed here? [Contact us](https://adobe.service-now.com/adls?category=6).
